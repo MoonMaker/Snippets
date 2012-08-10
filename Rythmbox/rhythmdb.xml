@@ -19,6 +19,141 @@
     <media-type>application/octet-stream</media-type>
   </entry>
   <entry type="iradio">
+    <title>WDR Funkhaus Europa</title>
+    <genre>&#xD6;ffentlich-Rechtliche</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://gffstream.ic.llnwd.net/stream/gffstream_w20a.m3u</location>
+    <play-count>2</play-count>
+    <last-played>1344580873</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>WDR 2 K&#xF6;ln</title>
+    <genre>&#xD6;ffentlich-Rechtliche</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.wdr.de/wdrlive/media/wdr2.m3u</location>
+    <play-count>2</play-count>
+    <last-played>1344579258</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>EinsLive Planb mit</title>
+    <genre>&#xD6;ffentlich-Rechtliche</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.wdr.de/wdrlive/media/1live_planbmit.m3u</location>
+    <play-count>1</play-count>
+    <last-played>1344578939</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>WDR 2 Aachen</title>
+    <genre>&#xD6;ffentlich-Rechtliche</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.wdr.de/wdrlive/media/wdr2_aachen.m3u</location>
+    <play-count>2</play-count>
+    <last-played>1344580862</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>EinsLive Fiehe</title>
+    <genre>&#xD6;ffentlich-Rechtliche</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.wdr.de/wdrlive/media/1live_fiehe.m3u</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>EinsLive</title>
+    <genre>&#xD6;ffentlich-Rechtliche</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.wdr.de/wdrlive/media/einslive.m3u</location>
+    <play-count>5</play-count>
+    <last-played>1344580699</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>EinsLive Klubbing</title>
+    <genre>&#xD6;ffentlich-Rechtliche</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.wdr.de/wdrlive/media/1live_klubbing.m3u</location>
+    <play-count>2</play-count>
+    <last-played>1344579009</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>EinsLive Rocker</title>
+    <genre>&#xD6;ffentlich-Rechtliche</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.wdr.de/wdrlive/media/1live_rocker.m3u</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>EinsLive Planb</title>
+    <genre>&#xD6;ffentlich-Rechtliche</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.wdr.de/wdrlive/media/1live_planb.m3u</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>WDR 2 Siegen</title>
+    <genre>&#xD6;ffentlich-Rechtliche</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.wdr.de/wdrlive/media/wdr2_siegen.m3u</location>
+    <play-count>1</play-count>
+    <last-played>1344579200</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>EinsLive Kassettendeck</title>
+    <genre>&#xD6;ffentlich-Rechtliche</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.wdr.de/wdrlive/media/1live_kassettendeck.m3u</location>
+    <play-count>1</play-count>
+    <last-played>1344578719</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>EinsLive Digi</title>
+    <genre>&#xD6;ffentlich-Rechtliche</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.wdr.de/wdrlive/media/einslivedigi.m3u</location>
+    <play-count>2</play-count>
+    <last-played>1344581034</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
     <title>Absolute Radio 80s (Modem)</title>
     <genre>80's</genre>
     <artist></artist>
@@ -37,125 +172,11 @@
     <media-type>application/octet-stream</media-type>
   </entry>
   <entry type="iradio">
-    <title>WDR 2 Siegen</title>
-    <genre>&#xD6;ffentlich-Rechtliche</genre>
+    <title>Absolute Classic Rock (Modem)</title>
+    <genre>Rock'n'Roll</genre>
     <artist></artist>
     <album></album>
-    <location>http://www.wdr.de/wdrlive/media/wdr2_siegen.m3u</location>
-    <play-count>1</play-count>
-    <last-played>1344579200</last-played>
-    <bitrate>128</bitrate>
-    <date>0</date>
-    <media-type>application/octet-stream</media-type>
-  </entry>
-  <entry type="iradio">
-    <title>EinsLive Planb mit</title>
-    <genre>&#xD6;ffentlich-Rechtliche</genre>
-    <artist></artist>
-    <album></album>
-    <location>http://www.wdr.de/wdrlive/media/1live_planbmit.m3u</location>
-    <play-count>1</play-count>
-    <last-played>1344578939</last-played>
-    <bitrate>128</bitrate>
-    <date>0</date>
-    <media-type>application/octet-stream</media-type>
-  </entry>
-  <entry type="iradio">
-    <title>EinsLive</title>
-    <genre>&#xD6;ffentlich-Rechtliche</genre>
-    <artist></artist>
-    <album></album>
-    <location>http://www.wdr.de/wdrlive/media/einslive.m3u</location>
-    <play-count>4</play-count>
-    <last-played>1344578716</last-played>
-    <bitrate>128</bitrate>
-    <date>0</date>
-    <media-type>application/octet-stream</media-type>
-  </entry>
-  <entry type="iradio">
-    <title>EinsLive Digi</title>
-    <genre>&#xD6;ffentlich-Rechtliche</genre>
-    <artist></artist>
-    <album></album>
-    <location>http://www.wdr.de/wdrlive/media/einslivedigi.m3u</location>
-    <play-count>1</play-count>
-    <last-played>1344578615</last-played>
-    <bitrate>128</bitrate>
-    <date>0</date>
-    <media-type>application/octet-stream</media-type>
-  </entry>
-  <entry type="iradio">
-    <title>EinsLive Klubbing</title>
-    <genre>&#xD6;ffentlich-Rechtliche</genre>
-    <artist></artist>
-    <album></album>
-    <location>http://www.wdr.de/wdrlive/media/1live_klubbing.m3u</location>
-    <play-count>2</play-count>
-    <last-played>1344579009</last-played>
-    <bitrate>128</bitrate>
-    <date>0</date>
-    <media-type>application/octet-stream</media-type>
-  </entry>
-  <entry type="iradio">
-    <title>EinsLive Fiehe</title>
-    <genre>&#xD6;ffentlich-Rechtliche</genre>
-    <artist></artist>
-    <album></album>
-    <location>http://www.wdr.de/wdrlive/media/1live_fiehe.m3u</location>
-    <date>0</date>
-    <media-type>application/octet-stream</media-type>
-  </entry>
-  <entry type="iradio">
-    <title>WDR 2 Aachen</title>
-    <genre>&#xD6;ffentlich-Rechtliche</genre>
-    <artist></artist>
-    <album></album>
-    <location>http://www.wdr.de/wdrlive/media/wdr2_aachen.m3u</location>
-    <play-count>1</play-count>
-    <last-played>1344579114</last-played>
-    <bitrate>128</bitrate>
-    <date>0</date>
-    <media-type>application/octet-stream</media-type>
-  </entry>
-  <entry type="iradio">
-    <title>EinsLive Planb</title>
-    <genre>&#xD6;ffentlich-Rechtliche</genre>
-    <artist></artist>
-    <album></album>
-    <location>http://www.wdr.de/wdrlive/media/1live_planb.m3u</location>
-    <date>0</date>
-    <media-type>application/octet-stream</media-type>
-  </entry>
-  <entry type="iradio">
-    <title>EinsLive Rocker</title>
-    <genre>&#xD6;ffentlich-Rechtliche</genre>
-    <artist></artist>
-    <album></album>
-    <location>http://www.wdr.de/wdrlive/media/1live_rocker.m3u</location>
-    <date>0</date>
-    <media-type>application/octet-stream</media-type>
-  </entry>
-  <entry type="iradio">
-    <title>EinsLive Kassettendeck</title>
-    <genre>&#xD6;ffentlich-Rechtliche</genre>
-    <artist></artist>
-    <album></album>
-    <location>http://www.wdr.de/wdrlive/media/1live_kassettendeck.m3u</location>
-    <play-count>1</play-count>
-    <last-played>1344578719</last-played>
-    <bitrate>128</bitrate>
-    <date>0</date>
-    <media-type>application/octet-stream</media-type>
-  </entry>
-  <entry type="iradio">
-    <title>WDR 2 K&#xF6;ln</title>
-    <genre>&#xD6;ffentlich-Rechtliche</genre>
-    <artist></artist>
-    <album></album>
-    <location>http://www.wdr.de/wdrlive/media/wdr2.m3u</location>
-    <play-count>2</play-count>
-    <last-played>1344579258</last-played>
-    <bitrate>128</bitrate>
+    <location>http://network.absoluteradio.co.uk/core/audio/ogg/live.pls?service=vc</location>
     <date>0</date>
     <media-type>application/octet-stream</media-type>
   </entry>
@@ -169,11 +190,11 @@
     <media-type>application/octet-stream</media-type>
   </entry>
   <entry type="iradio">
-    <title>Absolute Classic Rock (Modem)</title>
-    <genre>Rock'n'Roll</genre>
+    <title>Absolute Radio 90s (Modem)</title>
+    <genre>90's</genre>
     <artist></artist>
     <album></album>
-    <location>http://network.absoluteradio.co.uk/core/audio/ogg/live.pls?service=vc</location>
+    <location>http://network.absoluteradio.co.uk/core/audio/ogg/live.pls?service=a9</location>
     <date>0</date>
     <media-type>application/octet-stream</media-type>
   </entry>
@@ -187,20 +208,23 @@
     <media-type>application/octet-stream</media-type>
   </entry>
   <entry type="iradio">
-    <title>Absolute Radio 90s (Modem)</title>
-    <genre>90's</genre>
-    <artist></artist>
-    <album></album>
-    <location>http://network.absoluteradio.co.uk/core/audio/ogg/live.pls?service=a9</location>
-    <date>0</date>
-    <media-type>application/octet-stream</media-type>
-  </entry>
-  <entry type="iradio">
     <title>HBR1.com - Dream Factory</title>
     <genre>Ambient</genre>
     <artist></artist>
     <album></album>
     <location>http://ubuntu.hbr1.com:19800/ambient.ogg</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>StartFM - 94.2MHz, Vilnius University, Lithuania</title>
+    <genre>Underground</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://eteris.startfm.lt/startfm.ogg</location>
+    <play-count>1</play-count>
+    <last-played>1344578504</last-played>
+    <bitrate>64</bitrate>
     <date>0</date>
     <media-type>application/octet-stream</media-type>
   </entry>
@@ -228,18 +252,6 @@
     <artist></artist>
     <album></album>
     <location>http://stream-tx1.radioparadise.com:9000/rp_192.ogg</location>
-    <date>0</date>
-    <media-type>application/octet-stream</media-type>
-  </entry>
-  <entry type="iradio">
-    <title>StartFM - 94.2MHz, Vilnius University, Lithuania</title>
-    <genre>Underground</genre>
-    <artist></artist>
-    <album></album>
-    <location>http://eteris.startfm.lt/startfm.ogg</location>
-    <play-count>1</play-count>
-    <last-played>1344578504</last-played>
-    <bitrate>64</bitrate>
     <date>0</date>
     <media-type>application/octet-stream</media-type>
   </entry>
