@@ -1,0 +1,4959 @@
+---
+- 
+    radio: http://www.106acht.de/
+    radio_name: 106!8 Rock n Pop
+    location: <nr/><td>Hamburg
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: <a href="http://62.75.132.19:80/listen.pls">96 Kbps</a>
+    format: Classic Hits
+1: 
+    radio: http://www.90elf.de/
+    radio_name: |
+        90elf - Dein Fussball-Radio
+    location: <nr/><td>Berlin
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://9011.live.mp3.mdn.newmedia.nacamar.net:8000/9011/90elf_basis_noxon.mp3.m3u">128
+        Kbps</a>
+    format: Football / Rock
+2: 
+    radio: http://www.97eins.de/
+    radio_name: 97eins
+    location: <nr/><td>Bodenheim
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://rs1.radiostreamer.com:8140/listen.pls">128
+        Kbps</a>
+    format: Adult Contemporary / <br />Local service
+3: 
+    radio: http://www.antenne-ac.de/
+    radio_name: Antenne AC
+    location: <nr/><td>Würselen
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: <a href="http://87.106.128.61:1078/listen.pls">128 Kbps</a>
+    format: Hot Adult Contemporary
+4: 
+    radio: http://www.antenne-kh.de/
+    radio_name: Antenne Bad Kreuznach
+    location: <nr/><td>Bad Kreuznach
+    img: >
+        <img src="aacplus.gif" width="12" height="12" alt="aacplus"
+        />
+    listen: >
+        <a
+        href="http://stream.telvi.de:8000/antenne_badkreuznach.m3u">64
+        Kbps</a>
+    format: Adult Contemporary
+5: 
+    radio: http://www.antenne.de/
+    radio_name: Antenne Bayern
+    location: <nr/><td>Munich
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a href="mms://wms.webradio.antenne.de">96 Kbps</a><br /><a
+        href="http://www.antenne.de/webradio/antenne.m3u">128
+        Kbps</a>
+    format: Hot Adult Contemporary
+6: 
+    radio: http://www.antenne.de/
+    radio_name: Antenne Bayern Top 40
+    location: <nr/><td>Munich
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a href="mms://channels.webradio.antenne.de/top-40">128
+        Kbps</a><br /><a
+        href="http://www.antenne.de/webradio/channels/top-40.m3u">128
+        Kbps</a>
+    format: Top 40
+7: 
+    radio: http://www.antenne.de/
+    radio_name: Antenne Bayern Schlagersahne
+    location: <nr/><td>Munich
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a
+        href="mms://channels.webradio.antenne.de/das-schlager-karussell">96
+        Kbps</a><br /><a
+        href="http://www.antenne.de/webradio/channels/das-schlager-karussell.m3u">128
+        Kbps</a>
+    format: Schlager/Party music
+8: 
+    radio: http://www.antenne.de/
+    radio_name: Antenne Bayern Oldies but Goldies
+    location: <nr/><td>Munich
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a
+        href="mms://channels.webradio.antenne.de/oldies-but-goldies">96
+        Kbps</a><br /><a
+        href="http://www.antenne.de/webradio/channels/oldies-but-goldies.m3u">128
+        Kbps</a>
+    format: Oldies
+9: 
+    radio: http://www.antenne.de/
+    radio_name: Antenne Bayern Hits für Kids
+    location: <nr/><td>Munich
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a
+        href="mms://channels.webradio.antenne.de/hits-fuer-kids">96
+        Kbps</a><br /><a
+        href="http://www.antenne.de/webradio/channels/hits-fuer-kids.m3u">128
+        Kbps</a>
+    format: Children's pop
+10: 
+    radio: http://www.antenne.de/
+    radio_name: Antenne Bayern Die Jungen Wilden
+    location: <nr/><td>Munich
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a
+        href="mms://channels.webradio.antenne.de/die-jungen-wilden">96
+        Kbps</a><br /><a
+        href="http://www.antenne.de/webradio/channels/die-jungen-wilden.m3u">128
+        Kbps</a>
+    format: New Top 40
+11: 
+    radio: http://www.antenne.de/
+    radio_name: Antenne Bayern Chillout
+    location: <nr/><td>Munich
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a href="mms://channels.webradio.antenne.de/chillout">96
+        Kbps</a><br /><a
+        href="http://www.antenne.de/webradio/channels/chillout.m3u">128
+        Kbps</a>
+    format: Lounge/chillout
+12: 
+    radio: http://www.antenne.de/
+    radio_name: Antenne Bayern Lovesongs
+    location: <nr/><td>Munich
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a href="mms://channels.webradio.antenne.de/lovesongs">96
+        Kbps</a><br /><a
+        href="http://www.antenne.de/webradio/channels/lovesongs.m3u">128
+        Kbps</a>
+    format: Love songs
+13: 
+    radio: http://www.antenne.de/
+    radio_name: Antenne Bayern 80er Kulthits
+    location: <nr/><td>Munich
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a
+        href="mms://channels.webradio.antenne.de/80er-kulthits">96
+        Kbps</a><br /><a
+        href="http://www.antenne.de/webradio/channels/80er-kulthits.m3u">128
+        Kbps</a>
+    format: 80s hits
+14: 
+    radio: http://www.antenne.de/
+    radio_name: Antenne Bayern Black Beatz
+    location: <nr/><td>Munich
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a href="mms://channels.webradio.antenne.de/black-beatz">128
+        Kbps</a><br /><a
+        href="http://www.antenne.de/webradio/channels/black-beatz.m3u">128
+        Kbps</a>
+    format: HipHop/RnB/Soul
+15: 
+    radio: http://www.antenne.de/
+    radio_name: Antenne Bayern Kino Hits
+    location: <nr/><td>Munich
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a href="mms://channels.webradio.antenne.de/kino-hits">128
+        Kbps</a><br /><a
+        href="http://www.antenne.de/webradio/channels/kino-hits.m3u">128
+        kbps</a>
+    format: Film music
+16: 
+    radio: http://www.antenne.de/
+    radio_name: Antenne Bayern Classic Rock Live
+    location: <nr/><td>Munich
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a
+        href="mms://audio01.webradio.antenne.de/classic-rock-live">96
+        Kbps</a><br /><a
+        href="http://www.antenne.de/webradio/channels/classic-rock-live.m3u">128
+        kbps</a>
+    format: Classic Rock
+17: 
+    radio: http://www.antenneduesseldorf.de/
+    radio_name: Antenne Düsseldorf
+    location: <nr/><td>Düsseldorf
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:antennedu=void(window.open('http://213.200.64.229/freestream/download/antennedus/frameset.html','antennedu','width=675,height=520,top=30,left=30'))">WebPlayer</a>,
+        <a
+        href="http://tiscali.project-fx.de/play.wma?radio=antduesseldorfhi">128
+        Kbps</a>
+    format: Classic Hits
+18: 
+    radio: http://www.antenne-kl.de/
+    radio_name: Antenne Kaiserslautern
+    location: <nr/><td>Kaiserslautern
+    img: >
+        <img src="aacplus.gif" width="12" height="12" alt="aacplus"
+        />
+    listen: >
+        <a href="http://stream.telvi.de:8000/antenne_kl.m3u">64
+        Kbps</a>
+    format: Adult Contemporary
+19: 
+    radio: http://www.akoblenz.de/
+    radio_name: Antenne Koblenz
+    location: <nr/><td>Koblenz
+    img: >
+        <img src="aacplus.gif" width="12" height="12" alt="aacplus"
+        />
+    listen: >
+        <a href="http://stream.telvi.de:8000/antenne_koblenz.m3u">64
+        Kbps</a>
+    format: Top 40
+20: 
+    radio: http://www.antenne-landau.de/
+    radio_name: Antenne Landau
+    location: <nr/><td>Landau
+    img: >
+        <img src="aacplus.gif" width="12" height="12" alt="aacplus"
+        />
+    listen: >
+        <a href="http://stream.telvi.de:8000/antenne_landau.m3u">64
+        Kbps</a>
+    format: Adult Contemporary
+21: 
+    radio: http://www.antennemuenster.de/
+    radio_name: Antenne Münster
+    location: <nr/><td>Münster
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://stream.antennemuenster.de:8000/am128k.m3u">128
+        Kbps</a>
+    format: Hot Adult Contemporary
+22: 
+    radio: http://www.antennemv.de/
+    radio_name: Antenne MV
+    location: <nr/><td>Plate
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:antennemv=void(window.open('http://213.200.64.229/freestream/download/antennemv/frameset.html','antennemv','width=675,height=520,top=30,left=30'))">WebPlayer</a>,
+        <a
+        href="http://tiscali.project-fx.de/play.wma?radio=antmeckpomm">64
+        Kbps</a>
+    format: Hot Adult Contemporary
+23: 
+    radio: http://www.antenneniederrhein.de/
+    radio_name: Antenne Niederrhein
+    location: <nr/><td>Kleve
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:antenneni=void(window.open('http://lsd.newmedia.tiscali-business.com/bb/redirect.lsc?content=download&media=http&stream=freestream/antennenr/frameset.html','antenneni','width=675,height=520,top=30,left=30'))">48
+        Kbps</a>
+    format: Hot Adult Contemporary
+24: 
+    radio: http://www.antenne-pfalz.de/
+    radio_name: Antenne Pfalz
+    location: <nr/><td>Neustadt
+    img: >
+        <img src="aacplus.gif" width="12" height="12" alt="aacplus"
+        />
+    listen: >
+        <a href="http://stream.telvi.de:8000/antenne_pfalz.m3u">64
+        Kbps</a>
+    format: Adult Contemporary
+25: 
+    radio: http://www.antennethueringen.de/
+    radio_name: Antenne Thüringen
+    location: <nr/><td>Weimar
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:antenneth=void(window.open('http://213.200.64.229/freestream/download/antennethueringen/frameset_wmt.html','antenneth','width=675,height=520,top=30,left=30'))">96
+        Kbps</a>
+    format: Hot Adult Contemporary
+26: 
+    radio: http://www.antenneunna.de/
+    radio_name: Antenne Unna
+    location: <nr/><td>Unna
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="http://mediaserver.dokom21.de/antenneunna/streams/AntenneUnna.asx">64
+        Kbps</a>
+    format: Hot Adult Contemporary
+27: 
+    radio: http://www.antennewest.de/
+    radio_name: Antenne West
+    location: <nr/><td>Trier
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a href="http://stream.christo.net/Antennewest-radio">128
+        Kbps</a>
+    format: Top 40
+28: 
+    radio: http://www.apolloradio.de/
+    radio_name: Apollo Radio
+    location: <nr/><td>Chemnitz
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: <a href="http://217.68.161.157:6300/listen.pls">96 Kbps</a>
+    format: Classical/Jazz
+29: 
+    radio: http://www.babelsberg-hitradio.de/
+    radio_name: 14482 Babelsberg Hitradio
+    location: <nr/><td>Potsdam
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://ber.radiostream.de:31115/listen.pls">160
+        Kbps</a>
+    format: Adult Contemporary
+30: 
+    radio: http://www.baden.fm/
+    radio_name: baden.fm
+    location: <nr/><td>Freiburg
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: <a href="mms://regio-tv-server.de/badenfm">64 Kbps</a>
+    format: Top 40
+31: 
+    radio: http://www.br-online.de/bayern1/
+    radio_name: Bayern 1
+    location: <nr/><td>Munich
+    img: >
+        <img src="mp3.gif" width="12" height="12" alt="MP3" /><br
+        /><img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a href="http://streams.br-online.de/bayern1_1.m3u">56
+        Kbps</a>, <a
+        href="http://streams.br-online.de/bayern1_2.m3u">128
+        Kbps</a><br /><a
+        href="http://streams.br-online.de/bayern1_1.asx">48
+        Kbps</a>, <a
+        href="http://streams.br-online.de/bayern1_2.asx">128
+        Kbps</a>
+    format: News/Oldies/Schlager
+32: 
+    radio: http://www.br-online.de/bayern2/
+    radio_name: Bayern 2
+    location: <nr/><td>Munich
+    img: >
+        <img src="mp3.gif" width="12" height="12" alt="MP3" /><br
+        /><img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a href="http://streams.br-online.de/bayern2_1.m3u">56
+        Kbps</a>, <a
+        href="http://streams.br-online.de/bayern2_2.m3u">128
+        Kbps</a><br /><a
+        href="http://streams.br-online.de/bayern2_1.asx">48
+        Kbps</a>, <a
+        href="http://streams.br-online.de/bayern2_2.asx">128
+        Kbps</a>
+    format: Feature programming
+33: 
+    radio: http://www.br-online.de/bayern3/
+    radio_name: Bayern 3
+    location: <nr/><td>Munich
+    img: >
+        <img src="mp3.gif" width="12" height="12" alt="MP3" /><br
+        /><img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a href="http://streams.br-online.de/bayern3_1.m3u">56
+        Kbps</a>, <a
+        href="http://streams.br-online.de/bayern3_2.m3u">128
+        Kbps</a><br /><a
+        href="http://streams.br-online.de/bayern3_1.asx">48
+        Kbps</a>, <a
+        href="http://streams.br-online.de/bayern3_2.asx">128
+        Kbps</a>
+    format: Adult Contemporary
+34: 
+    radio: http://www.br-online.de/br-klassik/
+    radio_name: BR-Klassik
+    location: <nr/><td>Munich
+    img: >
+        <img src="mp3.gif" width="12" height="12" alt="MP3" /><br
+        /><img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a href="http://streams.br-online.de/br-klassik_1.m3u">56
+        Kbps</a>, <a
+        href="http://streams.br-online.de/br-klassik_2.m3u">128
+        Kbps</a><br /><a
+        href="http://streams.br-online.de/br-klassik_1.asx">48
+        Kbps</a>, <a
+        href="http://streams.br-online.de/br-klassik_2.asx">128
+        Kbps</a>
+    format: Classical
+35: 
+    radio: http://www.br-online.de/b5aktuell/
+    radio_name: B5 Aktuell
+    location: <nr/><td>Munich
+    img: >
+        <img src="mp3.gif" width="12" height="12" alt="MP3" /><br
+        /><img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a href="http://streams.br-online.de/b5aktuell_1.m3u">56
+        Kbps</a>, <a
+        href="http://streams.br-online.de/b5aktuell_2.m3u">128
+        Kbps</a><br /><a
+        href="http://streams.br-online.de/b5aktuell_1.asx">48
+        Kbps</a>, <a
+        href="http://streams.br-online.de/b5aktuell_2.asx">128
+        Kbps</a>
+    format: News
+36: 
+    radio: >
+        http://www.br-online.de/programm/digital-radio/digital-radio-DID1195677346958633/dab-b5-plus-digital-ID671195677341696766.xml
+    radio_name: B5 Plus
+    location: <nr/><td>Munich
+    img: >
+        <img src="mp3.gif" width="12" height="12" alt="MP3" /><br
+        /><img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a href="http://streams.br-online.de/b5plus_1.m3u">56
+        Kbps</a>, <a
+        href="http://streams.br-online.de/b5plus_2.m3u">128
+        Kbps</a><br /><a
+        href="http://streams.br-online.de/b5plus_1.asx">48 Kbps</a>,
+        <a href="http://streams.br-online.de/b5plus_2.asx">128
+        Kbps</a>
+    format: News/Parliamentary debate
+37: 
+    radio: http://www.br-online.de/on3radio/index.xml
+    radio_name: BR on3radio
+    location: <nr/><td>Munich
+    img: >
+        <img src="mp3.gif" width="12" height="12" alt="MP3" /><br
+        /><img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a href="http://streams.br-online.de/jugend-radio_1.m3u">56
+        Kbps</a>, <a
+        href="http://streams.br-online.de/jugend-radio_2.m3u">128
+        Kbps</a><br /><a
+        href="http://streams.br-online.de/jugend-radio_1.asx">48
+        Kbps</a>, <a
+        href="http://streams.br-online.de/jugend-radio_2.asx">128
+        Kbps</a><br />
+    format: Alternative/Indie music
+38: 
+    radio: http://www.br-online.de/
+    radio_name: Bayern Plus
+    location: <nr/><td>Munich
+    img: >
+        <img src="mp3.gif" width="12" height="12" alt="MP3" /><br
+        /><img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a href="http://streams.br-online.de/bayernplus_1.m3u">56
+        Kbps</a>, <a
+        href="http://streams.br-online.de/bayernplus_2.m3u">128
+        Kbps</a><br /><a
+        href="http://streams.br-online.de/bayernplus_1.asx">48
+        Kbps</a>, <a
+        href="http://streams.br-online.de/bayernplus_2.asx">128
+        Kbps</a>
+    format: Volksmusik/Schlager
+39: 
+    radio: http://www.bayernwelle.de/
+    radio_name: Bayernwelle Süd Ost
+    location: <nr/><td>Freilassing
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://icebwso.srv.co.at/plsfiles_bwbgl/bwbgl_hi.m3u">128
+        Kbps</a>
+    format: Adult Contemporary
+40: 
+    radio: http://www.bbradio.de/
+    radio_name: BB Radio
+    location: <nr/><td>Potsdam
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:bbradio=void(window.open('http://lsd.newmedia.tiscali-business.com/bb/redirect.lsc?content=download&media=http&stream=freestream/bbradio/frameset.html','bbradio','width=675,height=520,top=30,left=30'))">32
+        Kbps</a>
+    format: Adult Contemporary
+41: 
+    radio: http://www.befm.de/
+    radio_name: BeFM
+    location: <nr/><td>Internet only
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://befmrelaunch.groovy-m.de/cms/media/streamlinks/BeFM.m3u">128
+        Kbps</a>
+    format: HipHop/RnB
+42: 
+    radio: http://www.berliner-rundfunk.de/
+    radio_name: Berliner Rundfunk
+    location: <nr/><td>Berlin
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:br=void(window.open('http://www.berliner-rundfunk.de/static/liveradio/stream-radio-player-real.htm','br','width=675,height=520,top=30,left=30'))">128
+        Kbps</a>
+    format: Classic Hits
+43: 
+    radio: http://www.bermudafunk.org/
+    radio_name: bermuda.funk
+    location: <nr/><td>Mannheim
+    img: >
+        <img src="ogg.gif" width="12" height="12" alt="Ogg Vorbis"
+        />
+    listen: >
+        <a
+        href="http://streaming.fueralle.org:8000/bermudafunk.ogg.m3u">80
+        Kbps</a>
+    format: Local service/free radio
+44: 
+    radio: http://www.big-fm.de/
+    radio_name: Big FM
+    location: <nr/><td>Stuttgart
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://srv04.bigstreams.de/bigfm-mp3-64.m3u">96
+        Kbps</a>
+    format: Top 40/RnB
+45: 
+    radio: http://www.bigfm-saarland.de/
+    radio_name: Big FM Saarland
+    location: <nr/><td>Saarbrücken
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: <a href="http://bigfmlive.de:8000/listen.pls">56 Kbps</a>
+    format: Top 40/RnB
+46: 
+    radio: http://www.radiobremen.de/bremeneins/
+    radio_name: Bremen Eins
+    location: <nr/><td>Bremen
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="rm.gif" width="12" height="12"
+        alt="Real Audio" /><br /><img src="mp3.gif" width="12"
+        height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://www.radiobremen.de/stream/live.php?welle=bremeneins&media=ms">50
+        Kbps</a><br /><a
+        href="http://www.radiobremen.de/stream/live.php?welle=bremeneins&media=rm">44
+        Kbps</a><br /><a
+        href="http://sc1.lon.llnw.net/stream/gffstream_mp3_w48a.m3u">128
+        Kbps</a>
+    format: Oldies/Information
+47: 
+    radio: http://www.radiobremen.de/bremenvier/
+    radio_name: Bremen Vier
+    location: <nr/><td>Bremen
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="rm.gif" width="12" height="12"
+        alt="Real Audio" /><br /><img src="mp3.gif" width="12"
+        height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://www.radiobremen.de/stream/live.php?welle=bremenvier&media=ms">49
+        Kbps</a><br /><a
+        href="http://www.radiobremen.de/stream/live.php?welle=bremenvier&media=rm">44
+        Kbps</a><br /><a
+        href="http://www.radiobremen.de/stream/live/bremenvier.m3u">128
+        Kbps</a>
+    format: Pop/Rock
+48: 
+    radio: http://www.burn-fm.de/
+    radio_name: BurnFM
+    location: <nr/><td>Hof
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://stream100.inttech.de:8000/burnfm.mp3.m3u">128
+        Kbps</a>
+    format: Active Rock
+49: 
+    radio: http://www.byte.fm/
+    radio_name: Byte FM
+    location: <nr/><td>Hamburg
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://ds-streamingserver02.byte.fm:8010/listen.pls">128
+        Kbps</a>
+    format: Alternative/Rock/Pop
+50: 
+    radio: http://www.cafe80s.de/
+    radio_name: Cafe 80s FM
+    location: <nr/><td>Internet only
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: <a href="http://87.230.92.163:8000/listen.pls">128 Kbps</a>
+    format: 80s music
+51: 
+    radio: http://www.campusfm.info/
+    radio_name: CampusFM  
+    location: <nr/><td>Essen
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://132.252.179.253:8000/listen.pls">192
+        Kbps</a>
+    format: Student radio
+52: 
+    radio: http://www.charivari986.de/
+    radio_name: Charivari 98.6
+    location: <nr/><td>Nürnberg
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://213.200.64.229/freestream/download/charivari/frameset.html','C986','resizable=1,width=660,height=510,top=60,left=60'))">WebPlayer</a>,
+        <a
+        href="http://tiscali.project-fx.de/play.wma?radio=charivari">96
+        Kbps</a>
+    format: Adult Contemporary
+53: 
+    radio: http://www.charivari986.de/
+    radio_name: Charivari Soul
+    location: <nr/><td>Nürnberg
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://edge.download.newmedia.nacamar.net/freestream/download/charivarichannels/frameset_channel01.html','C986s','resizable=1,width=660,height=510,top=60,left=60'))">WebPlayer</a>,
+        <a
+        href="http://tiscali.project-fx.de/play.wma?radio=charivarisoul">96
+        Kbps</a>
+    format: Soul
+54: 
+    radio: http://www.charivari.de/
+    radio_name: Charivari 95.5
+    location: <nr/><td>Munich
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://stream.novalnet.de:8000/charivari.m3u">128
+        Kbps</a>
+    format: Hot Adult Contemporary
+55: 
+    radio: http://www.charivari.fm/
+    radio_name: Charivari 102.4
+    location: <nr/><td>Würzburg
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://duesseldorf.radiostream.de:36355/listen.pls">128
+        Kbps</a>
+    format: Adult Contemporary
+56: 
+    radio: http://www.charivari.com/
+    radio_name: Charivari Regensburg
+    location: <nr/><td>Regensburg
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://213.200.64.229/freestream/download/chari/frameset.html','Cregen','resizable=1,width=660,height=510,top=60,left=60'))">128
+        Kbps</a><br /><a
+        href="http://62.27.44.15/chari/livestream.mp3.m3u">128
+        Kbps</a>
+    format: Adult Contemporary
+57: 
+    radio: http://www.cityredio.de
+    radio_name: cityREdio
+    location: <nr/><td>Recklinghausen
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://www.cityredio.de:8000/listen.pls">128 
+        Kbps</a>
+    format: Local service/free radio
+58: 
+    radio: http://www.classicrock-radio.de/
+    radio_name: Classic Rock Radio
+    location: <nr/><td>Saarbrücken
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:salueclassic=void(window.open('http://edge.download.newmedia.nacamar.net/freestream/download/radiosalue/frameset_classicrock_96.html','salueclassic','width=675,height=520,top=30,left=30'))">96
+        Kbps</a>
+    format: Classic Rock
+59: 
+    radio: http://www.coloradio.org/
+    radio_name: coloRadio
+    location: <nr/><td>Dresden
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://217.172.183.184:8000/stream128.mp3.m3u">128
+        Kbps</a>
+    format: Local service/free radio
+60: 
+    radio: http://www.country108.com/
+    radio_name: Country 108
+    location: <nr/><td>Internet only
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: <a href="http://www.country108.com/listen.pls">128 Kbps</a>
+    format: Country music
+61: 
+    radio: http://www.dasding.de/
+    radio_name: DasDing
+    location: <nr/><td>Baden Baden
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a href="http://wma-live.dasding.de/dasding_m.asx">128
+        Kbps</a><br /><a
+        href="http://mp3-live.dasding.de/dasding_s.m3u">48 Kbps</a>,
+        <a href="http://mp3-live.dasding.de/dasding_m.m3u">128
+        Kbps</a>
+    format: Dance Top 40
+62: 
+    radio: http://www.dasding.de/
+    radio_name: DasDing Lautstark
+    location: <nr/><td>Baden Baden
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a href="http://wma-live.dasding.de/dasdingraka01_m.asx">128
+        Kbps</a><br /><a
+        href="http://mp3-live.dasding.de/dasdingraka01_m.m3u">128
+        Kbps</a>
+    format: Alternative Rock
+63: 
+    radio: http://www.dasding.de/
+    radio_name: DasDing Plattenleger
+    location: <nr/><td>Baden Baden
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a href="http://wma-live.dasding.de/dasdingraka03_m.asx">128
+        Kbps</a><br /><a
+        href="http://mp3-live.dasding.de/dasdingraka03_m.m3u">128
+        Kbps</a>
+    format: House
+64: 
+    radio: http://www.dasding.de/
+    radio_name: DasDing Sprechstunde
+    location: <nr/><td>Baden Baden
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a href="http://wma-live.dasding.de/dasdingraka02_m.asx">128
+        Kbps</a><br /><a
+        href="http://mp3-live.dasding.de/dasdingraka02_m.m3u">128
+        Kbps</a>
+    format: HipHop/RnB
+65: 
+    radio: http://www.defjay.de/
+    radio_name: Defjay Radio
+    location: <nr/><td>Berlin
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: <a href="http://www.defjay.de/listen.pls">128 Kbps</a>
+    format: RnB
+66: 
+    radio: http://www.deltaradio.de/
+    radio_name: Delta Radio
+    location: <nr/><td>Kiel
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:dr=void(window.open('http://213.200.64.229/freestream/download/deltaradio/frameset.html','dr','width=675,height=520,top=30,left=30'))">128
+        Kbps</a>
+    format: Rock
+67: 
+    radio: http://www.radiodeluxe.de/
+    radio_name: Deluxe Radio
+    location: <nr/><td>Munich
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://www.tv1.de/cms/_v/radiodeluxe.pls">128
+        Kbps</a>
+    format: Easy Listening/Jazz
+68: 
+    radio: http://www.radiodeluxe.de/
+    radio_name: Deluxe Lounge Radio
+    location: <nr/><td>Munich
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://d852143781.i.sto.core008.cdn.streamfarm.net/13000deluxe/live/3304lounge.m3u">128
+        Kbps</a>
+    format: Smooth Jazz/Lounge
+69: 
+    radio: http://www.dradio.de/dkultur/
+    radio_name: DeutschlandRadio Kultur
+    location: <nr/><td>Berlin
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" /><br /><img src="ogg.gif" width="12" height="12"
+        alt="Ogg Vorbis" />
+    listen: >
+        <a href="http://www.dradio.de/streaming/dlr.asx">128
+        Kbps</a><br /><a
+        href="http://www.dradio.de/streaming/dlr.m3u">128
+        Kbps</a><br /><a
+        href="http://www.dradio.de/streaming/dkultur_mq_ogg.m3u">56
+        Kbps</a>, <a
+        href="http://www.dradio.de/streaming/dkultur_hq_ogg.m3u">128
+        Kbps</a>
+    format: Arts/Culture
+70: 
+    radio: http://www.dradio.de/
+    radio_name: Deutschlandfunk
+    location: <nr/><td>Cologne
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" /><br /><img src="ogg.gif" width="12" height="12"
+        alt="Ogg Vorbis" />
+    listen: >
+        <a href="http://www.dradio.de/streaming/dlf.asx">128
+        Kbps</a><br /><a
+        href="http://www.dradio.de/streaming/dlf.m3u">128
+        Kbps</a><br /><a
+        href="http://www.dradio.de/streaming/dlf_mq_ogg.m3u">56
+        Kbps</a>, <a
+        href="http://www.dradio.de/streaming/dlf_hq_ogg.m3u">128
+        Kbps</a>
+    format: News/information
+71: 
+    radio: http://wissen.dradio.de/
+    radio_name: DRadio Wissen
+    location: <nr/><td>Cologne
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" /><br /><img src="ogg.gif" width="12" height="12"
+        alt="Ogg Vorbis" />
+    listen: >
+        <a
+        href="http://www.dradio.de/streaming/dradiowissen.asx">128
+        Kbps</a><br /><a
+        href="http://www.dradio.de/streaming/dradiowissen.m3u">128
+        Kbps</a><br /><a
+        href="http://www.dradio.de/streaming/dradiowissen_lq_ogg.m3u">32
+        Kbps</a>, <a
+        href="http://www.dradio.de/streaming/dradiowissen_hq_ogg.m3u">128
+        Kbps</a>
+    format: Education/Science
+72: 
+    radio: http://www.dwelle.de/
+    radio_name: Deutsche Welle
+    location: <nr/><td>Bonn
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a
+        href="mms://c13010-ls.w.core.cdn.streamfarm.net/dwworldlive-live/13010dwrde50">48
+        Kbps</a><br /><a
+        href="http://www.listenlive.eu/dw-de.m3u">64 Kbps</a>
+    format: News/information in German
+73: 
+    radio: http://www.dwelle.de/
+    radio_name: Deutsche Welle
+    location: <nr/><td>Bonn
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a
+        href="mms://c13010-ls.w.core.cdn.streamfarm.net/dwworldlive-live/13010dwren50">48
+        Kbps</a><br /><a href="http://www.listenlive.eu/dw.m3u">64
+        Kbps</a>
+    format: News/information in English
+74: 
+    radio: http://www.dieneue1077.de/
+    radio_name: Die Neue 107,7
+    location: <nr/><td>Stuttgart
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://www.dieneue1077.de/redirect.php?id=33">96
+        Kbps</a>
+    format: Pop/Rock
+75: 
+    radio: http://www.dieneue1077.de/
+    radio_name: Die Neue 107,7 Livesongs
+    location: <nr/><td>Stuttgart
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://www.dieneue1077.de/redirect.php?id=46">96
+        Kbps</a>
+    format: Live music
+76: 
+    radio: http://www.dieneue1077.de/
+    radio_name: Die Neue 107,7 80er Radio
+    location: <nr/><td>Stuttgart
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://www.dieneue1077.de/redirect.php?id=47">96
+        Kbps</a>
+    format: 80s music
+77: 
+    radio: http://www.domradio.de/
+    radio_name: domradio
+    location: <nr/><td>Cologne
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" /><br /><img src="rm.gif" width="12" height="12"
+        alt="Real Audio" />
+    listen: >
+        <a href="mms://217.115.153.122/domaudio">64 Kbps</a><br /><a
+        href="http://62.75.220.89:8000/listen.pls">128 Kbps</a><br
+        /><a href="http://www.domradio.de/streams/radio.smi">56
+        Kbps</a>
+    format: Christian
+78: 
+    radio: http://www.donau3fm.de/
+    radio_name: Donau 3 FM
+    location: <nr/><td>Ulm
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://server1.webradiostreaming.de:2640/listen.pls">64
+        Kbps</a>
+    format: Adult Contemporary
+79: 
+    radio: http://www.echo-fm.uni-freiburg.de/
+    radio_name: echo-fm 88,4
+    location: <nr/><td>Freiburg
+    img: >
+        <img src="rm.gif" width="12" height="12" alt="Real Audio"
+        /><br /><img src="wma.gif" width="12" height="12"
+        alt="Windows Media" />
+    listen: >
+        <a
+        href="http://rs1.ruf.uni-freiburg.de:8080/ramgen/broadcast/uniradio/sendung.rm">128
+        Kbps</a><br /><a
+        href="mms://rs1.ruf.uni-freiburg.de:8080/wmtencoder/sendung.wmv">128
+        Kbps</a>
+    format: Student radio
+80: 
+    radio: http://www.eldoradio.de/
+    radio_name: elDOradio 93.0
+    location: <nr/><td>Dortmund
+    img: >
+        <img src="mp3.gif" width="12" height="12" alt="MP3" /><br
+        /><img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://www.eldoradio.de/broadcast/high.pls">56
+        Kbps</a>, <a
+        href="http://www.eldoradio.de/broadcast/128.pls">128
+        Kbps</a><br /><a
+        href="http://www.eldoradio.de/broadcast/192.pls">192
+        Kbps</a>
+    format: Student radio
+81: 
+    radio: http://www.egofm.de/
+    radio_name: egoFM
+    location: <nr/><td>Munich
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://h1433204.stratoserver.net:8000/live.m3u">128
+        Kbps</a>
+    format: Pop/Rock/Dance
+82: 
+    radio: http://www.energyonline.de/hamburg/
+    radio_name: Energy 97,1
+    location: <nr/><td>Hamburg
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="mms://nrj.project-fx.de/play.wma?radio=NRJ_HAMBURG">128
+        Kbps</a>
+    format: Top 40
+83: 
+    radio: http://www.energyonline.de/muenchen/
+    radio_name: Energy 93,3
+    location: <nr/><td>Munich
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="mms://nrj.project-fx.de/play.wma?radio=NRJ_MUENCHEN">64
+        Kbps</a>
+    format: Top 40
+84: 
+    radio: http://www.energyonline.de/berlin/
+    radio_name: Energy 103,4
+    location: <nr/><td>Berlin
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="mms://nrj.project-fx.de/play.wma?radio=NRJ_BERLIN">128
+        Kbps</a>
+    format: Top 40
+85: 
+    radio: http://www.energyonline.de/nuernberg/
+    radio_name: Energy 106,9
+    location: <nr/><td>Nürnberg
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="mms://nrj.project-fx.de/play.wma?radio=NRJ_NUERNBERG">128
+        Kbps</a>
+    format: Top 40
+86: 
+    radio: http://www.energy.de/bremen/
+    radio_name: Energy Bremen
+    location: <nr/><td>Bremen
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="mms://nrj.project-fx.de/play.wma?radio=NRJ_BREMEN">32
+        Kbps</a>
+    format: Top 40
+87: 
+    radio: http://www.energy.de/stuttgart/
+    radio_name: Energy Stuttgart
+    location: <nr/><td>Stuttgart
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="mms://nrj.project-fx.de/play.wma?radio=NRJ_STUTTGART">48
+        Kbps</a>
+    format: Top 40
+88: 
+    radio: http://www.energy.de/sachsen/
+    radio_name: Energy Sachsen
+    location: <nr/><td>Leipzig
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="mms://nrj.project-fx.de/play.wma?radio=NRJ_SACHSEN">128
+        Kbps</a>
+    format: Top 40
+89: 
+    radio: http://www.erf.de/
+    radio_name: ERF
+    location: <nr/><td>Wetzlar
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://c14000-l.i.core.cdn.streamfarm.net/14000cina/live/3212erf_40/live_de_40.mp3.m3u">40
+        Kbps</a>, <a
+        href="http://c14000-l.i.core.cdn.streamfarm.net/14000cina/live/3212erf_96/live_de_96.mp3.m3u">96
+        Kbps</a>
+    format: Christian
+90: 
+    radio: http://www.radio-fantasy.de/
+    radio_name: Fantasy Dance FM
+    location: <nr/><td>Roetgen
+    img: >
+        <img src="mp3.gif" width="12" height="12" alt="MP3" /><br
+        /><img src="aacplus.gif" width="12" height="12"
+        alt="aacplus" /><br /><img src="ogg.gif" width="12"
+        height="12" alt="Ogg Vorbis" />
+    listen: >
+        <a
+        href="http://www.radio-fantasy.de/Webradio/codecs/modem_stream.mp3.m3u">32
+        Kbps</a>, <a
+        href="http://www.radio-fantasy.de/Webradio/codecs/dsl_stream.mp3.m3u">128
+        Kbps</a><br /><a
+        href="http://www.radio-fantasy.de/Webradio/codecs/modem_stream.aac.m3u">32
+        Kbps</a><br /><a
+        href="http://www.radio-fantasy.de/Webradio/codecs/dsl_stream.ogg.m3u">45
+        Kbps</a>
+    format: Dance/House/HipHop
+91: 
+    radio: http://www.freies-radio.de/
+    radio_name: Freies Radio für Stuttgart
+    location: <nr/><td>Stuttgart
+    img: >
+        <img src="ogg.gif" width="12" height="12" alt="Ogg Vorbis"
+        />
+    listen: >
+        <a href="http://frs.kumbi.org:8000/frs_stereo.ogg.m3u">96
+        Kbps</a>
+    format: Local service/free radio
+92: 
+    radio: http://www.harmonyfm.de/
+    radio_name: Harmony FM
+    location: <nr/><td>Frankfurt
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a
+        href="javascript:hm=void(window.open('http://edge.download.newmedia.nacamar.net/freestream/download/harmony/frameset_wmt_high.html','hm','width=468,height=248,top=30,left=30'))">128
+        Kbps</a><br /><a
+        href="http://62.27.44.60:8000/harmonyfm/livestream.mp3.m3u">96
+        Kbps</a>
+    format: Classic Hits
+93: 
+    radio: http://www.hellwegradio.de/
+    radio_name: Hellweg Radio
+    location: <nr/><td>Soest
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://s2.global-streaming.net:8100/listen.pls">128
+        Kbps</a>
+    format: Hot Adult Contemporary
+94: 
+    radio: http://www.radiohertz.de/
+    radio_name: Hertz 87.9
+    location: <nr/><td>Bielefeld
+    img: >
+        <img src="ogg.gif" width="12" height="12" alt="ogg Vorbis"
+        />
+    listen: >
+        <a
+        href="http://radio.uni-bielefeld.de:8000/hertz-q5.ogg.m3u">160
+        Kbps</a>
+    format: Student radio
+95: 
+    radio: http://www.antenne.com/
+    radio_name: Hit-Radio Antenne Niedersachsen
+    location: <nr/><td>Hannover
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="aacplus.gif" width="12" height="12"
+        alt="aacplus" />
+    listen: >
+        <a
+        href="javascript:antennens=void(window.open('http://213.200.64.229/freestream/download/niedersachsen/frameset.html','antennens','width=675,height=520,top=30,left=30'))">64
+        Kbps</a><br /><a
+        href="http://rs14.stream24.org/stream.aac.m3u">64 Kbps</a>
+    format: Adult Contemporary
+96: 
+    radio: http://www.antenne.com/
+    radio_name: Hit-Radio Antenne Bremen
+    location: <nr/><td>Bremen
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="javascript:antenneb=void(window.open('http://213.200.64.229/freestream/download/antennebremen/frameset.html','antennenb','width=675,height=520,top=30,left=30'))">128
+        Kbps</a>
+    format: Adult Contemporary
+97: 
+    radio: http://www.ffh.de/
+    radio_name: Hit Radio FFH
+    location: <nr/><td>Frankfurt
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://lsd.newmedia.nacamar.net/bb/redirect.lsc?content=download&media=http&stream=freestream/ffhchannels/frameset_ffh.html','FFHL','width=690,height=620,top=30,left=30'))">48
+        Kbps</a>, <a
+        href="javascript:void(window.open('http://lsd.newmedia.nacamar.net/bb/redirect.lsc?content=download&media=http&stream=freestream/ffhchannels/frameset_ffh2.html','FFHH','width=690,height=620,top=30,left=30'))">128Kbps</a><br
+        /><a
+        href="http://edge.live.mp3.mdn.newmedia.nacamar.net/radioffh/livestream.mp3.m3u">96
+        Kbps</a>
+    format: Top 40
+98: 
+    radio: http://www.myfunradio.de/
+    radio_name: FFH Digital MyFun Radio
+    location: <nr/><td>Frankfurt
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://edge.download.newmedia.nacamar.net/freestream/download/ffhchannels/frameset_myfunradio.html','FFHmyfun','width=690,height=620,top=30,left=30'))">96
+        Kbps</a>
+    format: Comedy/Karaoke
+99: 
+    radio: http://www.ffh.de/
+    radio_name: FFH Digital Party-Start 09
+    location: <nr/><td>Frankfurt
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://lsd.newmedia.nacamar.net/bb/redirect.lsc?content=download&media=http&stream=freestream/ffhchannels/frameset_seasons.html','FFHparty','width=690,height=620,top=30,left=30'))">96
+        Kbps</a>
+    format: Party songs
+100: 
+    radio: http://www.ffh.de/
+    radio_name: FFH Digital Deutsch Pur
+    location: <nr/><td>Frankfurt
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://edge.download.newmedia.nacamar.net/freestream/download/ffhchannels/frameset_deutschpur.html','FFHdpur','width=690,height=620,top=30,left=30'))">96
+        Kbps</a>
+    format: German Pop/Rock
+101: 
+    radio: http://www.ffh.de/
+    radio_name: FFH Digital Electro Beats
+    location: <nr/><td>Frankfurt
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://edge.download.newmedia.nacamar.net/freestream/download/ffhchannels/frameset_electro.html','FFHseasons','width=690,height=620,top=30,left=30'))">96
+        Kbps</a>
+    format: Techno/Electro/Club
+102: 
+    radio: http://www.ffh.de/
+    radio_name: FFH Digital Jazz
+    location: <nr/><td>Frankfurt
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://edge.download.newmedia.nacamar.net/freestream/download/ffhchannels/frameset_jazz.html','FFHjazz','width=690,height=620,top=30,left=30'))">96
+        Kbps</a>
+    format: Jazz
+103: 
+    radio: http://www.ffh.de/
+    radio_name: FFH Digital Die 80-er
+    location: <nr/><td>Frankfurt
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://lsd.newmedia.nacamar.net/bb/redirect.lsc?content=download&media=http&stream=freestream/ffhchannels/frameset_80er.html','FFH80s','width=690,height=620,top=30,left=30'))">96
+        Kbps</a>
+    format: 80s
+104: 
+    radio: http://www.ffh.de/
+    radio_name: FFH Digital Top 40
+    location: <nr/><td>Frankfurt
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://lsd.newmedia.nacamar.net/bb/redirect.lsc?content=download&media=http&stream=freestream/ffhchannels/frameset_top40.html','FFHtop','width=690,height=620,top=30,left=30'))">96
+        Kbps</a>
+    format: Top 40
+105: 
+    radio: http://www.ffh.de/
+    radio_name: FFH Digital Rock over Germany
+    location: <nr/><td>Frankfurt
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://lsd.newmedia.nacamar.net/bb/redirect.lsc?content=download&media=http&stream=freestream/ffhchannels/frameset_rock.html','FFHrock','width=690,height=620,top=30,left=30'))">96
+        Kbps</a>
+    format: Rock
+106: 
+    radio: http://www.ffh.de/
+    radio_name: FFH Digital FFH-Nachrichten
+    location: <nr/><td>Frankfurt
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://edge.download.newmedia.nacamar.net/freestream/download/ffhchannels/frameset_newschannel.html','FFHnews','width=690,height=620,top=30,left=30'))">96
+        Kbps</a>
+    format: News
+107: 
+    radio: http://www.ffh.de/
+    radio_name: FFH Digital Lounge
+    location: <nr/><td>Frankfurt
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://lsd.newmedia.nacamar.net/bb/redirect.lsc?content=download&media=http&stream=freestream/ffhchannels/frameset_lounge.html','FFHlounge','width=690,height=620,top=30,left=30'))">96
+        Kbps</a>
+    format: Chill out
+108: 
+    radio: http://www.ffh.de/
+    radio_name: FFH Digital Future
+    location: <nr/><td>Frankfurt
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://lsd.newmedia.nacamar.net/bb/redirect.lsc?content=download&media=http&stream=freestream/ffhchannels/frameset_future.html','FFHfuture','width=690,height=620,top=30,left=30'))">96
+        Kbps</a>
+    format: New music releases
+109: 
+    radio: http://www.ffh.de/
+    radio_name: FFH Digital Jack FM
+    location: <nr/><td>Frankfurt
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://lsd.newmedia.nacamar.net/bb/redirect.lsc?content=download&media=http&stream=freestream/ffhchannels/frameset_jackfm.html','FFHjack','width=690,height=620,top=30,left=30'))">96
+        Kbps</a>
+    format: Adult hits
+110: 
+    radio: http://www.ffh.de/
+    radio_name: FFH Digital Schlagerkult
+    location: <nr/><td>Frankfurt
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://lsd.newmedia.nacamar.net/bb/redirect.lsc?content=download&media=http&stream=freestream/ffhchannels/frameset_schlager.html','FFHschlager','width=690,height=620,top=30,left=30'))">96
+        Kbps</a>
+    format: Schlager
+111: 
+    radio: http://www.ffh.de/
+    radio_name: FFH Digital Hits für Kids
+    location: <nr/><td>Frankfurt
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://lsd.newmedia.nacamar.net/bb/redirect.lsc?content=download&media=http&stream=freestream/ffhchannels/frameset_hits4kids.html','FFHkids','width=690,height=620,top=30,left=30'))">96
+        Kbps</a>
+    format: Childrens
+112: 
+    radio: http://www.ffh.de/
+    radio_name: FFH Digital Soundtrack
+    location: <nr/><td>Frankfurt
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://edge.download.newmedia.nacamar.net/freestream/download/ffhchannels/frameset_movie.html','FFHmovie','width=690,height=620,top=30,left=30'))">96
+        Kbps</a>
+    format: Film music
+113: 
+    radio: http://www.ffh.de/
+    radio_name: FFH Digital Black Power
+    location: <nr/><td>Frankfurt
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://edge.download.newmedia.nacamar.net/freestream/download/ffhchannels/frameset_black.html','FFHblack','width=690,height=620,top=30,left=30'))">96
+        Kbps</a>
+    format: RnB/HipHop
+114: 
+    radio: http://www.gayfm.de/
+    radio_name: GAYFM
+    location: <nr/><td>Internet only
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: <a href="http://www.gayfm.de/listen.pls">128 Kbps</a>
+    format: Dance music
+115: 
+    radio: http://www.hit104.com/
+    radio_name: HIT104
+    location: <nr/><td>Internet only
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: <a href="http://www.hit104.com/listen.pls">128 Kbps</a>
+    format: Top 40
+116: 
+    radio: http://www.meinantenne1.de/
+    radio_name: Hit-Radio ANTENNE 1
+    location: <nr/><td>Stuttgart
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a
+        href="javascript:antennedu=void(window.open('http://213.200.64.229/freestream/download/antenne1/v2/frameset_ne_wmt_hq.html','antennedu','width=600,height=363,top=30,left=30'))">128
+        Kbps</a><br /><a
+        href="http://213.200.97.110:8000/antenne1/livestream.mp3.m3u">96
+        Kbps</a>
+    format: Hot Adult Contemporary
+117: 
+    radio: http://www.hitradion1.de/
+    radio_name: Hit Radio N1
+    location: <nr/><td>Nürnberg
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://213.200.64.229/freestream/download/hitradion1/frameset.html','N1','width=660,height=510,top=30,left=30'))">96
+        Kbps</a>
+    format: Top 40
+118: 
+    radio: http://www.hitradio-msone.de/
+    radio_name: Hitradio MS One
+    location: <nr/><td>Neusaess
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://hitradio-msone.de/streams/high/MP3stream.m3u">112
+        Kbps</a>
+    format: Top 40
+119: 
+    radio: http://www.radio-ohr.de/
+    radio_name: Hitradio Ohr
+    location: <nr/><td>Offenburg
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://players.creacast.com/creacast/hitradio_ohr/playlist.pls">128
+        Kbps</a>
+    format: Top 40
+120: 
+    radio: http://www.rt1-nordschwaben.de/
+    radio_name: Hitradio RT1 Nordschwaben
+    location: <nr/><td>Donauwoerth
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: <a href="http://radiostream.de/stream/32175.m3u">64 Kbps</a>
+    format: Hot Adult Contemporary
+121: 
+    radio: http://www.rt1-suedschwaben.de
+    radio_name: Hitradio RT1 Südschwaben
+    location: <nr/><td>Memmingen
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: <a href="http://radiostream.de/stream/31855.m3u">80 Kbps</a>
+    format: Hot Adult Contemporary
+122: 
+    radio: http://www.hitradiovest.de/
+    radio_name: Hitradio Vest
+    location: <nr/><td>Recklinghausen
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: <a href="mms://webradio.hitradiovest.de/stream">40 Kbps</a>
+    format: Hot Adult Contemporary
+123: 
+    radio: http://www.hochschulradio-aachen.de/
+    radio_name: Hochschulradio Aachen
+    location: <nr/><td>Aachen
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://evans.hochschulradio.rwth-aachen.de:8000/hoeren/high.m3u">128
+        Kbps</a>
+    format: Student radio
+124: 
+    radio: http://www.horads.de/
+    radio_name: HoRadS 99.2 FM
+    location: <nr/><td>Stuttgart
+    img: >
+        <img src="ogg.gif" width="12" height="12" alt="Ogg Vorbis"
+        />
+    listen: >
+        <a
+        href="http://realserver3.hdm-stuttgart.de:8080/horads.m3u">128
+        Kbps</a>
+    format: Student radio
+125: 
+    radio: http://www.hr1.de/
+    radio_name: HR1
+    location: <nr/><td>Frankfurt
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a href="http://metafiles.gl-systemhaus.de/hr/hr1_1.asx">64
+        Kbps</a><br /><a
+        href="http://metafiles.gl-systemhaus.de/hr/hr1_2.m3u ">128
+        Kbps</a>
+    format: Info/Sport/Music
+126: 
+    radio: http://www.hr2.de/
+    radio_name: HR2
+    location: <nr/><td>Frankfurt
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a href="http://metafiles.gl-systemhaus.de/hr/hr2_1.asx">64
+        Kbps</a><br /><a
+        href="http://metafiles.gl-systemhaus.de/hr/hr2_2.m3u">128
+        Kbps</a>
+    format: Classical/Culture
+127: 
+    radio: http://www.hr3.de/
+    radio_name: HR3
+    location: <nr/><td>Frankfurt
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a href="http://metafiles.gl-systemhaus.de/hr/hr3_1.asx">64
+        Kbps</a><br /><a
+        href="http://metafiles.gl-systemhaus.de/hr/hr3_2.m3u">128
+        Kbps</a>
+    format: Pop
+128: 
+    radio: http://www.hr4.de/
+    radio_name: HR4
+    location: <nr/><td>Frankfurt
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a href="http://metafiles.gl-systemhaus.de/hr/hr4_1.asx">48
+        Kbps</a><br /><a
+        href="http://metafiles.gl-systemhaus.de/hr/hr4_2.m3u">128
+        Kbps</a>
+    format: Schlager/Easy Listening
+129: 
+    radio: http://www.you-fm.de/
+    radio_name: HR You FM
+    location: <nr/><td>Frankfurt
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a
+        href="http://metafiles.gl-systemhaus.de/hr/youfm_1.asx">64
+        Kbps</a><br /><a
+        href="http://metafiles.gl-systemhaus.de/hr/youfm_2.m3u">128
+        Kbps</a>
+    format: Top 40
+130: 
+    radio: http://www.you-fm.de/
+    radio_name: HR You FM Club Musicstream
+    location: <nr/><td>Frankfurt
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://metafiles.gl-systemhaus.de/hr/youfm_club.m3u">128
+        Kbps</a>
+    format: Techno/Drum&Bass
+131: 
+    radio: http://www.you-fm.de/
+    radio_name: HR You FM Rock Musicstream
+    location: <nr/><td>Frankfurt
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://metafiles.gl-systemhaus.de/hr/youfm_rock.m3u">128
+        Kbps</a>
+    format: Rock
+132: 
+    radio: http://www.you-fm.de/
+    radio_name: HR You FM Black Musicstream
+    location: <nr/><td>Frankfurt
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://metafiles.gl-systemhaus.de/hr/youfm_black.m3u">128
+        Kbps</a>
+    format: RnB/HipHop
+133: 
+    radio: http://www.hr-online.de/website/radio/hr-info/
+    radio_name: hr-info
+    location: <nr/><td>Frankfurt
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a
+        href="http://metafiles.gl-systemhaus.de/hr/hrinfo_1.asx">48
+        Kbps</a><br /><a
+        href="http://metafiles.gl-systemhaus.de/hr/hrinfo_2.m3u">128
+        Kbps</a>
+    format: News/Information
+134: 
+    radio: http://www.jackfm.de/
+    radio_name: Jack FM
+    location: <nr/><td>Berlin
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://sc1.streamfox.com:8050/listen.pls">128
+        Kbps</a>
+    format: Top 40
+135: 
+    radio: http://www.jamfm.de/
+    radio_name: Jam FM
+    location: <nr/><td>Berlin
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://213.200.64.229/freestream/download/jamfm/frameset.html','jamfm','width=660,height=510,top=60,left=60'))">128
+        Kbps</a>
+    format: RnB
+136: 
+    radio: http://www.jazzyfm.com/
+    radio_name: Jazzy FM
+    location: <nr/><td>Internet only
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://sc1.netstreamer.net:8110/listen.pls">128
+        Kbps</a>
+    format: Jazz
+137: 
+    radio: http://www.kanalrattefm.de/
+    radio_name: Kanal Ratte
+    location: <nr/><td>Schopfheim
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: <a href="http://kanalrattefm.de/rkr-hi.m3u">56 Kbps</a>
+    format: Local service/free radio
+138: 
+    radio: http://www.klassikradio.de/
+    radio_name: Klassik Radio
+    location: <nr/><td>Hamburg
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://players.creacast.com/creacast/klassik/playlist.pls">96
+        Kbps</a>
+    format: Classical
+139: 
+    radio: http://www.kissfm.de/
+    radio_name: Kiss FM
+    location: <nr/><td>Berlin
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://edge.download.newmedia.nacamar.net/freestream/download/kissfm/frameset.html','kiss','resizable=1,width=660,height=510,top=60,left=60'))">128
+        Kbps</a>
+    format: RnB/Rap/Soul
+140: 
+    radio: http://www.kissfm.de/
+    radio_name: Kiss FM pure RnB
+    location: <nr/><td>Berlin
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://edge.download.newmedia.nacamar.net/freestream/download/kissfm/frameset_rnb.html','kissrnb','resizable=1,width=660,height=510,top=60,left=60'))">64
+        Kbps</a>
+    format: RnB
+141: 
+    radio: http://www.kissfm.de/
+    radio_name: Kiss FM pure Rap 
+    location: <nr/><td>Berlin
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://edge.download.newmedia.nacamar.net/freestream/download/kissfm/frameset_rap.html','kissrap','resizable=1,width=660,height=510,top=60,left=60'))">64
+        Kbps</a>
+    format: Rap
+142: 
+    radio: http://www.koelncampus.com/
+    radio_name: Kölncampus
+    location: <nr/><td>Cologne
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://zaik-vs2.ad.uni-koeln.de:7998/listen.pls">48
+        Kbps</a>, <a
+        href="http://zaik-vs2.ad.uni-koeln.de:8002/listen.pls">128
+        Kbps</a>
+    format: Student radio
+143: 
+    radio: http://www.landeswelle.de/
+    radio_name: LandesWelle Thüringen
+    location: <nr/><td>Erfurt
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://213.200.64.229/freestream/download/landeswelle/frameset.html','landeswelle','width=660,height=510,top=60,left=60'))">128
+        Kbps</a>
+    format: Adult Contemporary
+144: 
+    radio: http://www.leinehertz.de/
+    radio_name: LeineHertz 106einhalb
+    location: <nr/><td>Hannover
+    img: >
+        <img src="mp3.gif" width="12" height="12" alt="MP3" /><br
+        /><img src="aacplus.gif" width="12" height="12"
+        alt="aacPlus" />
+    listen: >
+        <a
+        href="http://www.leinehertz.de/cms/uploads/media/106einhalb_mp3.pls">128
+        Kbps</a><br /><a
+        href="http://www.leinehertz.de/cms/uploads/media/106einhalb_aac.pls">128
+        Kbps</a>
+    format: Variety
+145: 
+    radio: http://www.lohro.de/
+    radio_name: LOHRO 90,2FM
+    location: <nr/><td>Rostock
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://stream.lohro.de:8000/lohro2.mp3.m3u">32
+        Kbps</a>, <a href="http://stream.lohro.de:8000/lohro.m3u">64
+        Kbps</a>
+    format: Local service
+146: 
+    radio: http://home.link-m.de/lora/
+    radio_name: LORA München
+    location: <nr/><td>Munich
+    img: >
+        <img src="mp3.gif" width="12" height="12" alt="MP3" /><br
+        /><img src="ogg.gif" width="12" height="12" alt="Ogg Vorbis"
+        />
+    listen: >
+        <a href="http://live.lora924.de:8000/loramp3.mp3.m3u">32
+        Kbps</a><br /><a
+        href="http://live.lora924.de:8000/lora.ogg.m3u">64 Kbps</a>
+    format: Community/Free radio
+147: 
+    radio: http://m945.afk.de/
+    radio_name: m94,5
+    location: <nr/><td>Munich
+    img: >
+        <img src="mp3.gif" width="12" height="12" alt="MP3" /><br
+        /><img src="ogg.gif" width="12" height="12" alt="Ogg Vorbis"
+        />
+    listen: >
+        <a href="http://stream.m945.mwn.de/m945-lq.mp3.m3u">32
+        Kbps</a>, <a
+        href="http://stream.m945.mwn.de/m945-hq.mp3.m3u">128
+        Kbps</a><br /><a
+        href="http://stream.m945.mwn.de/m945-lq.ogg.m3u">40
+        Kbps</a>, <a
+        href="http://stream.m945.mwn.de/m945-hq.ogg.m3u">128
+        Kbps</a>
+    format: Student radio
+148: 
+    radio: http://www.mainfm.de/
+    radio_name: Main FM
+    location: <nr/><td>Frankfurt
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://213.200.64.229/freestream/download/mainfm/frameset.html','mainfm','width=660,height=510,top=60,left=60'))">128
+        Kbps</a>
+    format: Adult Contemporary
+149: 
+    radio: http://www.max.fm/
+    radio_name: MAX-FM
+    location: <nr/><td>Jena
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://stream.max-fm.com:8000/maxfm.m3u">64
+        Kbps</a>
+    format: House/Electro/HipHop
+150: 
+    radio: http://www.mdr.de/mdr1-radio-sachsen/
+    radio_name: MDR 1 Radio Sachsen
+    location: <nr/><td>Dresden
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://avw.mdr.de/livestreams/mdr1_radio_sachsen_live_128.m3u">128
+        Kbps</a>
+    format: News/Information/Music
+151: 
+    radio: http://www.mdr.de/mdr1-radio-sachsen-anhalt/
+    radio_name: MDR 1 Radio Sachsen-Anhalt
+    location: <nr/><td>Magdeburg
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://avw.mdr.de/livestreams/mdr1_radio_sachsen-anhalt_live_128.m3u">128
+        Kbps</a>
+    format: News/Information/Music
+152: 
+    radio: http://www.mdr.de/mdr1-radio-thueringen/
+    radio_name: MDR 1 Radio Thüringen
+    location: <nr/><td>Erfurt
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://avw.mdr.de/livestreams/mdr1_radio_thueringen_live_128.m3u">128
+        Kbps</a>
+    format: News/Information/Music
+153: 
+    radio: http://www.jumpradio.de/
+    radio_name: MDR JUMP Livestream
+    location: <nr/><td>Halle
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://www.jumpradio.de/static/webchannel/jump_live_channel_low.m3u">56
+        Kbps</a>, <a
+        href="http://www.jumpradio.de/static/webchannel/jump_live_channel_high.m3u">128
+        Kbps</a>
+    format: Hot AC, Pop, Rock
+154: 
+    radio: http://www.jumpradio.de/scripts/musik/interaktiv.cfm
+    radio_name: MDR JUMP Interaktiv Channel
+    location: <nr/><td>Halle
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://www.jumpradio.de/static/webchannel/jump_interaktiv_channel_64.m3u">64
+        Kbps</a>, <a
+        href="http://www.jumpradio.de/static/webchannel/jump_interaktiv_channel_128.m3u">128
+        Kbps</a>
+    format: Hot AC, Pop, Rock
+155: 
+    radio: >
+        http://www.jumpradio.de/programm/inhalt/piraten_channel.shtml
+    radio_name: MDR JUMP Piraten Channel
+    location: <nr/><td>Halle
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://www.jumpradio.de/static/webchannel/jump_piraten_channel_64.m3u">64
+        Kbps</a>, <a
+        href="http://www.jumpradio.de/static/webchannel/jump_piraten_channel_128.m3u">128
+        Kbps</a>
+    format: Rock, Pop, Soul, Jazz, Electro
+156: 
+    radio: http://www.jumpradio.de/programm/inhalt/rock_channel.shtml
+    radio_name: MDR JUMP Rock Channel
+    location: <nr/><td>Halle
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://www.jumpradio.de/static/webchannel/jump_rock_channel_64.m3u">64
+        Kbps</a>, <a
+        href="http://www.jumpradio.de/static/webchannel/jump_rock_channel_128.m3u">128
+        Kbps</a>
+    format: Modern rock
+157: 
+    radio: http://www.jumpradio.de/programm/inhalt/trend_channel.shtml
+    radio_name: MDR JUMP Trend Channel
+    location: <nr/><td>Halle
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://www.jumpradio.de/static/webchannel/jump_trend_channel_64.m3u">64
+        Kbps</a>, <a
+        href="http://www.jumpradio.de/static/webchannel/jump_trend_channel_128.m3u">128
+        Kbps</a>
+    format: Rock, Pop, Hip Hop, Electro
+158: 
+    radio: http://www.mdr.de/mdr-info/
+    radio_name: MDR INFO Livestream
+    location: <nr/><td>Halle
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://avw.mdr.de/livestreams/mdr_info_live_56.m3u">56
+        Kbps</a>, <a
+        href="http://avw.mdr.de/livestreams/mdr_info_live_128.m3u">128
+        Kbps</a>
+    format: News
+159: 
+    radio: http://www.mdr.de/mdr-figaro/
+    radio_name: MDR FIGARO Livestream
+    location: <nr/><td>Halle
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://avw.mdr.de/livestreams/mdr_figaro_live_56.m3u">56
+        Kbps</a>, <a
+        href="http://avw.mdr.de/livestreams/mdr_figaro_live_128.m3u">128
+        Kbps</a>
+    format: Classical, Jazz, Folk, Pop, Rock,<br /> Talk, News
+160: 
+    radio: http://www.mdr.de/mdr-figaro/webchannels/6525480.html
+    radio_name: MDR FIGARO Classic in Concert
+    location: <nr/><td>Halle
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://avw.mdr.de/livestreams/mdr_figaro_classic_64.m3u">64
+        Kbps</a>, <a
+        href="http://avw.mdr.de/livestreams/mdr_figaro_classic_128.m3u">128
+        Kbps</a>
+    format: Classical
+161: 
+    radio: http://www.mdr.de/mdr-figaro/webchannels/6526131.html
+    radio_name: MDR FIGARO Folk in Concert
+    location: <nr/><td>Halle
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://avw.mdr.de/livestreams/mdr_figaro_folk_64.m3u">64
+        Kbps</a>, <a
+        href="http://avw.mdr.de/livestreams/mdr_figaro_folk_128.m3u">128
+        Kbps</a>
+    format: Folk
+162: 
+    radio: http://www.mdr.de/mdr-figaro/webchannels/6526249.html
+    radio_name: MDR FIGARO Figarino
+    location: <nr/><td>Halle
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://avw.mdr.de/livestreams/mdr_figaro_figarino_64.m3u">64
+        Kbps</a>, <a
+        href="http://avw.mdr.de/livestreams/mdr_figaro_figarino_128.m3u">128
+        Kbps</a>
+    format: Children's programmes
+163: 
+    radio: http://www.mdr.de/mdr-klassik
+    radio_name: MDR KLASSIK Livestream
+    location: <nr/><td>Halle
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://avw.mdr.de/livestreams/mdr_klassik_live_128.m3u">128
+        Kbps</a>
+    format: Classical
+164: 
+    radio: http://www.sputnik.de/
+    radio_name: MDR SPUTNIK OnAir Channel
+    location: <nr/><td>Halle
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://www.sputnik.de/m3u/live.lo.m3u">56 Kbps</a>,
+        <a href="http://www.sputnik.de/m3u/live.hi.m3u">128 Kbps</a>
+    format: Pop, Rock, Hot AC
+165: 
+    radio: >
+        http://www.sputnik.de/programm/streaming/mdr-sputnik-black-stream
+    radio_name: MDR SPUTNIK Black Channel
+    location: <nr/><td>Halle
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://www.sputnik.de/m3u/black.lo.m3u">64
+        Kbps</a>, <a
+        href="http://www.sputnik.de/m3u/black.hi.m3u">128 Kbps</a>
+    format: R&B, HipHop
+166: 
+    radio: >
+        http://www.sputnik.de/programm/streaming/mdr-sputnik-club-stream
+    radio_name: MDR SPUTNIK Club Channel
+    location: <nr/><td>Halle
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://www.sputnik.de/m3u/club.lo.m3u">64 Kbps</a>,
+        <a href="http://www.sputnik.de/m3u/club.hi.m3u">128 Kbps</a>
+    format: Dance music
+167: 
+    radio: >
+        http://www.sputnik.de/programm/streaming/mdr-sputnik-insomnia-stream
+    radio_name: MDR SPUTNIK Insomnia Channel
+    location: <nr/><td>Halle
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://www.sputnik.de/m3u/insomnia.lo.m3u">64
+        Kbps</a>, <a
+        href="http://www.sputnik.de/m3u/insomnia.hi.m3u">128
+        Kbps</a>
+    format: Alternative, Chillout
+168: 
+    radio: >
+        http://www.sputnik.de/programm/streaming/mdr-sputnik-makossa-stream
+    radio_name: MDR SPUTNIK Makossa Channel
+    location: <nr/><td>Halle
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://www.sputnik.de/m3u/makossa.lo.m3u">64
+        Kbps</a>, <a
+        href="http://www.sputnik.de/m3u/makossa.hi.m3u">128 Kbps</a>
+    format: Hip/Hop, Rap, R&B, Rock, Ska
+169: 
+    radio: >
+        http://www.sputnik.de/programm/streaming/mdr-sputnik-popkult-stream
+    radio_name: MDR SPUTNIK Popkult Channel
+    location: <nr/><td>Halle
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://www.sputnik.de/m3u/popkult.hi.m3u">128
+        Kbps</a>
+    format: Pop
+170: 
+    radio: >
+        http://www.sputnik.de/programm/streaming/mdr-sputnik-rock-stream
+    radio_name: MDR SPUTNIK Rock Channel
+    location: <nr/><td>Halle
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://www.sputnik.de/m3u/rock.lo.m3u">64 Kbps</a>,
+        <a href="http://www.sputnik.de/m3u/rock.hi.m3u">128 Kbps</a>
+    format: Modern rock
+171: 
+    radio: >
+        http://www.sputnik.de/programm/streaming/mdr-sputnik-soundcheck-stream
+    radio_name: MDR SPUTNIK Soundcheck Channel
+    location: <nr/><td>Halle
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://www.sputnik.de/m3u/soundcheck.lo.m3u">64
+        Kbps</a>, <a
+        href="http://www.sputnik.de/m3u/soundcheck.hi.m3u">128
+        Kbps</a>
+    format: Pop, Rock, Electro
+172: 
+    radio: http://www.metropolfm.de/
+    radio_name: Metropol FM
+    location: <nr/><td>Berlin
+    img: >
+        <img src="ogg.gif" width="12" height="12" alt="ogg Vorbis"
+        />
+    listen: <a href="metropolfm.m3u">64 Kbps</a>
+    format: Turkish music
+173: 
+    radio: http://www.mixnation.de/
+    radio_name: MixNation
+    location: <nr/><td>Internet only
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: <a href="http://www.mixnation.de/listen.pls">128 Kbps</a>
+    format: Dance remixes
+174: 
+    radio: http://www.motorfm.de/
+    radio_name: Motor FM
+    location: <nr/><td>Berlin
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://stream.motorfm.de:8000/stream.mp3.m3u">128
+        Kbps</a>
+    format: Alternative/Indie
+175: 
+    radio: http://www.news894.de/
+    radio_name: NE-WS 89.4
+    location: <nr/><td>Neuss
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://213.200.64.229/freestream/download/news894/frameset.html','news894','resizable=1,width=660,height=510,top=60,left=60'))">40
+        Kbps</a>
+    format: Top 40
+176: 
+    radio: http://www.ndr.de/903/
+    radio_name: NDR 90,3
+    location: <nr/><td>Hamburg
+    img: >
+        <img src="mp3.gif" width="12" height="12" alt="MP3" /><br
+        /><img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="http://ndr.ic.llnwd.net/stream/ndr_ndr903_hi_mp3.m3u">128
+        Kbps</a><br /><a
+        href="http://ndr-ndr903-hi-wma.wm.llnwd.net/ndr_ndr903_hi_wma">96
+        Kbps</a>
+    format: News/Features
+177: 
+    radio: http://www.ndr.de/niedersachsen/
+    radio_name: NDR 1 Niedersachsen
+    location: <nr/><td>Hannover
+    img: >
+        <img src="mp3.gif" width="12" height="12" alt="MP3" /><br
+        /><img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="http://ndr.ic.llnwd.net/stream/ndr_ndr1niedersachsen_hi_mp3.m3u">128
+        Kbps</a><br /><a
+        href="http://ndr-ndr1niedersachsen-hi-wma.wm.llnwd.net/ndr_ndr1niedersachsen_hi_wma">96
+        Kbps</a>
+    format: News/Features
+178: 
+    radio: http://www.ndr.de/radiomv/
+    radio_name: NDR 1 Radio MV
+    location: <nr/><td>Schwerin
+    img: >
+        <img src="mp3.gif" width="12" height="12" alt="MP3" /><br
+        /><img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="http://ndr.ic.llnwd.net/stream/ndr_ndr1radiomv_hi_mp3.m3u">128
+        Kbps</a><br /><a
+        href="http://ndr-ndr1radiomv-hi-wma.wm.llnwd.net/ndr_ndr1radiomv_hi_wma">96
+        Kbps</a>
+    format: News/Features
+179: 
+    radio: http://www.ndr.de/wellenord/
+    radio_name: NDR 1 Welle Nord
+    location: <nr/><td>Flensburg
+    img: >
+        <img src="mp3.gif" width="12" height="12" alt="MP3" /><br
+        /><img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="http://ndr.ic.llnwd.net/stream/ndr_ndr1wellenord_hi_mp3.m3u">128
+        Kbps</a><br /><a
+        href="http://ndr-ndr1wellenord-hi-wma.wm.llnwd.net/ndr_ndr1wellenord_hi_wma">96
+        Kbps</a>
+    format: News/Features/Music
+180: 
+    radio: http://www.ndr2.de/
+    radio_name: NDR 2
+    location: <nr/><td>Hamburg
+    img: >
+        <img src="mp3.gif" width="12" height="12" alt="MP3" /><br
+        /><img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="http://ndr.ic.llnwd.net/stream/ndr_ndr2_hi_mp3.m3u">128
+        Kbps</a><br /><a
+        href="http://ndr-ndr2-hi-wma.wm.llnwd.net/ndr_ndr2_hi_wma">96
+        Kbps</a>
+    format: Adult Contemporary
+181: 
+    radio: http://www.ndrkultur.de/
+    radio_name: NDR Kultur
+    location: <nr/><td>Hamburg
+    img: >
+        <img src="mp3.gif" width="12" height="12" alt="MP3" /><br
+        /><img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="http://ndr.ic.llnwd.net/stream/ndr_ndrkultur_hi_mp3.m3u">128
+        Kbps</a><br /><a
+        href="http://ndr-ndrkultur-hi-wma.wm.llnwd.net/ndr_ndrkultur_hi_wma">96
+        Kbps</a>
+    format: Classical
+182: 
+    radio: http://www.ndrinfo.de/
+    radio_name: NDR Info
+    location: <nr/><td>Hamburg
+    img: >
+        <img src="mp3.gif" width="12" height="12" alt="MP3" /><br
+        /><img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="http://ndr.ic.llnwd.net/stream/ndr_ndrinfo_hi_mp3.m3u">128
+        Kbps</a><br /><a
+        href="http://ndr-ndrinfo-hi-wma.wm.llnwd.net/ndr_ndrinfo_hi_wma">64
+        Kbps</a>
+    format: News
+183: 
+    radio: http://www.n-joy.de/
+    radio_name: N-Joy Radio
+    location: <nr/><td>Hamburg
+    img: >
+        <img src="mp3.gif" width="12" height="12" alt="MP3" /><br
+        /><img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="http://ndr.ic.llnwd.net/stream/ndr_n-joy_hi_mp3.m3u">128
+        Kbps</a><br /><a
+        href="http://ndr-n-joy-hi-wma.wm.llnwd.net/ndr_n-joy_hi_wma">96
+        Kbps</a>
+    format: Top 40 / Dance
+184: 
+    radio: http://www.meine-neue-welle.de/
+    radio_name: Die Neue Welle
+    location: <nr/><td>Karlsruhe
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://live.meine-neue-welle.de/dnw_128.mp3.m3u">128
+        Kbps</a>
+    format: Pop/rock
+185: 
+    radio: http://www.radiobremen.de/nordwestradio/
+    radio_name: Nordwestradio
+    location: <nr/><td>Bremen
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="rm.gif" width="12" height="12"
+        alt="Real Audio" /><br /><img src="mp3.gif" width="12"
+        height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://www.radiobremen.de/stream/live.php?welle=nordwestradio&media=ms">40
+        Kbps</a><br /><a
+        href="http://www.radiobremen.de/stream/live.php?welle=nordwestradio&media=rm">44
+        Kbps</a><br /><a
+        href="http://sc19.ams.llnw.net/stream/gffstream_mp3_w50a.m3u">128
+        Kbps</a>
+    format: Information/Culture
+186: 
+    radio: http://www.novaradio.de/
+    radio_name: Nova Radio
+    location: <nr/><td>Munich
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: <a href="http://www.novaradio.de/stream.m3u">128 Kbps</a>
+    format: Dance/House/Electro
+187: 
+    radio: http://www.ok-nordhausen.de/
+    radio_name: Offener Kanal Nordhausen
+    location: <nr/><td>Nordhausen
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://radiostream.de/stream/36165.m3u">128
+        Kbps</a>
+    format: Local service/free radio
+188: 
+    radio: http://www.oldie95.de/
+    radio_name: Oldie 95
+    location: <nr/><td>Hamburg
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://lsd.newmedia.tiscali-business.com/bb/redirect.lsc?content=download&media=http&stream=freestream/oldie95/frameset.html','oldie95','resizable=1,width=468,height=424,top=60,left=60'))">48
+        Kbps</a>
+    format: Oldies
+189: 
+    radio: http://www.oldie-radio.de/
+    radio_name: Oldie-Radio
+    location: <nr/><td>Rüsselsheim
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://www.oldie-radio.de:8000/listen.pls">96
+        Kbps</a>
+    format: Oldies
+190: 
+    radio: http://www.oldiestar.de/
+    radio_name: OldieStar Radio
+    location: <nr/><td>Berlin
+    img: >
+        <img src="mp3.gif" width="12" height="12" alt="MP3" /><br
+        /><img src="aacplus.gif" width="12" height="12"
+        alt="aacPlus" />
+    listen: >
+        <a href="http://www.oldiestar.de/oldie.pls">128 Kbps</a><br
+        /><a href="http://oldiestar.de/oldie_aac.pls">56 Kbps</a>
+    format: Oldies
+191: 
+    radio: >
+        http://213.239.209.122:8000/listen.pls">128
+        Kbps</a></td><nr/><td>Local
+        service</td><nr/></tr><nr/><nr/><tr><nr/><td><a
+        href="http://www.ostseewelle.de/
+    radio_name: Ostseewelle Hit Radio
+    location: <nr/><td>Rostock
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://213.200.64.229/freestream/download/ostseewelle/frameset.html','ostseewelle','width=660,height=510,top=60,left=60'))">128
+        Kbps</a>
+    format: Top 40
+192: 
+    radio: http://www.planetradio.de/
+    radio_name: Planet Radio
+    location: <nr/><td>Frankfurt
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a
+        href="javascript:planet=void(window.open('http://213.200.64.229/freestream/download/planetradio/frameset.html','planet','width=660,height=510,top=30,left=30'))">48
+        Kbps</a><br /><a
+        href="http://62.27.44.60:8000/planetradio/livestream.mp3.m3u">96
+        Kbps</a>
+    format: Top 40/Dance
+193: 
+    radio: http://www.pride1radio.com/
+    radio_name: PRIDE1
+    location: <nr/><td>Internet only
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: <a href="http://www.pride1radio.com/pride1.pls">128 Kbps</a>
+    format: Gay/Lesbian radio
+194: 
+    radio: http://www.radio2day.de/
+    radio_name: Radio 2Day
+    location: <nr/><td>Munich
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://radio2day.ip-streaming.net/radio2day.m3u">128
+        Kbps</a>
+    format: Classic hits
+195: 
+    radio: http://www.radio21.de/
+    radio_name: Radio 21
+    location: <nr/><td>Garbsen
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://www.radio21.de/cms/fileadmin/playlist/radio21.m3u">128
+        Kbps</a>
+    format: Classic Rock
+196: 
+    radio: http://www.radio30.de/
+    radio_name: Radio 30 plus
+    location: <nr/><td>Ludwigsfeld
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://30plus.homeftp.net:8000/listen.pls">80
+        Kbps</a>
+    format: Local service
+197: 
+    radio: http://www.radio7.de/
+    radio_name: Radio 7
+    location: <nr/><td>Ulm
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://players.creacast.com/creacast/radio7/playlist.pls">128
+        Kbps</a>
+    format: Hot Adult Contemporary
+198: 
+    radio: http://www.radio700.de/
+    radio_name: Radio 700
+    location: <nr/><td>Euskirchen
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://www.radio700.at/streams/radio700-dsl.pls">160
+        Kbps</a>
+    format: Oldies/schlager
+199: 
+    radio: http://www.radio8.de/
+    radio_name: Radio 8
+    location: <nr/><td>Ansbach
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: <a href="http://stream.radio8.de:8000/live.m3u">56 Kbps</a>
+    format: Adult Contemporary
+200: 
+    radio: http://www.radio901.de/
+    radio_name: Radio 90,1
+    location: <nr/><td>Mönchengladbach
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://213.200.64.229/freestream/download/radiomg/frameset.html','radio901','width=660,height=510,top=60,left=60'))">48
+        Kbps</a>
+    format: Hot Adult Contemporary
+201: 
+    radio: http://www.radio912.de/
+    radio_name: Radio 91.2
+    location: <nr/><td>Dortmund
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="http://mediaserver.dokom21.de/radio912/streams/RADIO912.asx">64
+        Kbps</a>
+    format: Hot Adult Contemporary
+202: 
+    radio: http://www.radioaktiv.org/
+    radio_name: RadioAktiv
+    location: <nr/><td>Mannheim
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://stream.radioaktiv.org:8000/ra32.m3u">32
+        Kbps</a>, <a
+        href="http://stream.radioaktiv.org:8000/ra128.m3u">128
+        Kbps</a>
+    format: Student Radio
+203: 
+    radio: http://www.alpenwelle.de/
+    radio_name: Radio Alpenwelle
+    location: <nr/><td>Bad Tölz
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="http://cms.streamfarm.net/cms/_vm100/52759/asx.asx">96
+        Kbps</a>
+    format: Adult Contemporary
+204: 
+    radio: http://www.radio-arabella.de/
+    radio_name: Radio Arabella
+    location: <nr/><td>Munich
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://stream01.arabella-de.vss.kapper.net:8000/listen.pls">96
+        Kbps</a>
+    format: Oldies/Schlager
+205: 
+    radio: http://www.digital-radio-augsburg.de/
+    radio_name: Radio Augsburg
+    location: <nr/><td>Augsburg
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://web25.u161.umbra.fastwebserver.de/streams/radioaugsburg.m3u">128
+        Kbps</a>
+    format: Soft Adult Contemporary
+206: 
+    radio: http://www.radioawn.de/
+    radio_name: Radio AWN
+    location: <nr/><td>Straubing
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: <a href="http://www.listenlive.eu/awn.m3u">96 Kbps</a>
+    format: Local service
+207: 
+    radio: http://www.radio-bamberg.de/
+    radio_name: Radio Bamberg
+    location: <nr/><td>Bamberg
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://ipx14566.ipxserver.de:8000/listen.pls">96
+        Kbps</a>
+    format: Adult Contemporary
+208: 
+    radio: http://www.radioberg.de/
+    radio_name: Radio Berg
+    location: <nr/><td>Kürten
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://213.200.64.229/freestream/download/radioberg/frameset.html','berg','width=660,height=510,top=60,left=60'))">48
+        Kbps</a>
+    format: Hot Adult Contemporary
+209: 
+    radio: http://www.radiobielefeld.de/
+    radio_name: Radio Bielefeld
+    location: <nr/><td>Bielefeld
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://213.200.64.229/freestream/download/radiobielefeld/frameset.html','bielefeld','width=660,height=510,top=60,left=60'))">64
+        Kbps</a>
+    format: Hot Adult Contemporary
+210: 
+    radio: http://www.radioblau.de/
+    radio_name: Radio Blau
+    location: <nr/><td>Leipzig
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://www.radioblau.de/stream/128.m3u">128
+        Kbps</a>
+    format: Local service/free radio
+211: 
+    radio: http://www.radiobob.de/
+    radio_name: Radio Bob!
+    location: <nr/><td>Kassel
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a
+        href="javascript:skyradio=void(window.open('http://213.200.64.229/freestream/download/radiobob/frameset.html','radiobob','width=640,height=400,top=60,left=60'))">96
+        Kbps</a><br /><a
+        href="http://edge.live.mp3.mdn.newmedia.nacamar.net/stbradiobob/livestream.mp3.m3u">128
+        Kbps</a>
+    format: Rock and Pop
+212: 
+    radio: http://www.98.5radiobochum.de/
+    radio_name: Radio Bochum
+    location: <nr/><td>Bochum
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://213.200.64.229/freestream/download/radiobochum/frameset.html','bochum','width=660,height=510,top=60,left=60'))">128
+        Kbps</a>
+    format: Top 40
+213: 
+    radio: http://www.radio-bonn.de/
+    radio_name: Radio Bonn/Rhein-Sieg
+    location: <nr/><td>Bonn
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://ga-stream01.ga-bonn.de/live128.m3u">96
+        Kbps</a>
+    format: Adult Contemporary
+214: 
+    radio: http://www.brocken.de/
+    radio_name: Radio Brocken
+    location: <nr/><td>Halle
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://stream.telvi.de:8000/radiobrocken.m3u">128
+        Kbps</a>
+    format: Top 40
+215: 
+    radio: http://www.radio-charivari.de/
+    radio_name: Radio Charivari
+    location: <nr/><td>Rosenheim
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://mediencenter-augsburg.de/streamserver/Charivari_Rosenheim/Stream_Charivari.m3u">128
+        Kbps</a>
+    format: Adult Contemporary
+216: 
+    radio: http://www.radiochemnitz.net/
+    radio_name: Radio Chemnitz 102.1
+    location: <nr/><td>Chemnitz
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="http://radiochemnitz.stream.green.ch/radiochemnitz.wax">64
+        Kbps</a>
+    format: Hot Adult Contemporary
+217: 
+    radio: http://cms.radiocorax.de/
+    radio_name: Radio Corax
+    location: <nr/><td>Halle
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://217.172.183.184:8000/corax.mp3.m3u">128
+        Kbps</a>
+    format: Local service/free radio
+218: 
+    radio: http://www.radio-cottbus.de/
+    radio_name: 94,5 Radio Cottbus
+    location: <nr/><td>Cottbus
+    img: >
+        <img src="aacplus.gif" width="12" height="12" alt="aacPlus"
+        />
+    listen: >
+        <a href="http://stream.telvi.de:8000/radio_cottbus.m3u">64
+        Kbps</a>
+    format: Top 40
+219: 
+    radio: http://www.radioct.de/
+    radio_name: Radio c.t.
+    location: <nr/><td>Bochum
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://live.radioct.de:8000/listen.pls">32
+        Kbps</a>, <a
+        href="http://live.radioct.de:8008/listen.pls">128 Kbps</a>
+    format: Student radio
+220: 
+    radio: http://www.radiodarmstadt.de/
+    radio_name: Radio Darmstadt
+    location: <nr/><td>Darmstadt
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://www.radiodarmstadt.de/live/stream.m3u">96
+        Kbps</a>
+    format: Local service/free radio
+221: 
+    radio: http://www.radiodresden.net/
+    radio_name: Radio Dresden 103.5
+    location: <nr/><td>Dresden
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="http://radiodresden.stream.green.ch/radiodresden.wax">64
+        Kbps</a>
+    format: Hot Adult Contemporary
+222: 
+    radio: http://www.radioduisburg.de/
+    radio_name: Radio Duisburg
+    location: <nr/><td>Duisburg
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://edge.download.newmedia.nacamar.net/freestream/download/radioduisburg/frameset.html','duisburg','width=660,height=530,top=60,left=60'))">128
+        Kbps</a>
+    format: Hot Adult Contemporary
+223: 
+    radio: http://www.radioeins.com/
+    radio_name: Radio EINS
+    location: <nr/><td>Coburg
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://ipx14567.ipxserver.de:8000/listen.pls">96
+        Kbps</a>
+    format: Adult Contemporary
+224: 
+    radio: http://www.relmeinradio.de/
+    radio_name: Radio Emscher Lippe
+    location: <nr/><td>Gelsenkirchen
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://edge.download.newmedia.nacamar.net/freestream/download/radioemscherlippe/frameset.html','emscherlippe','width=660,height=530,top=60,left=60'))">128
+        Kbps</a>
+    format: Hot Adult Contemporary
+225: 
+    radio: http://www.radioenneperuhr.de/
+    radio_name: Radio Ennepe Ruhr
+    location: <nr/><td>Hagen
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://edge.download.newmedia.nacamar.net/freestream/download/radioen/frameset.html','ennepe','width=660,height=530,top=60,left=60'))">128
+        Kbps</a>
+    format: Hot Adult Contemporary
+226: 
+    radio: http://www.radioerft.de/
+    radio_name: Radio Erft
+    location: <nr/><td>Hürth
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://213.200.64.229/freestream/download/radioerft/frameset.html','erft','width=660,height=510,top=60,left=60'))">48
+        Kbps</a>
+    format: Hot Adult Contemporary
+227: 
+    radio: http://www.radioerzgebirge.net/
+    radio_name: Radio Erzgebirge
+    location: <nr/><td>Annaberg Buchholz
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="http://radioerzgebirge.stream.green.ch/radioerzgebirge.wax">64
+        Kbps</a>
+    format: Hot Adult Contemporary
+228: 
+    radio: http://www.radio-essen.de/
+    radio_name: Radio Essen
+    location: <nr/><td>Essen
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://edge.download.newmedia.nacamar.net/freestream/download/radioessen/frameset.html','essen','width=660,height=530,top=60,left=60'))">128
+        Kbps</a>
+    format: Hot Adult Contemporary
+229: 
+    radio: http://www.radioeuskirchen.de/
+    radio_name: Radio Euskirchen
+    location: <nr/><td>Euskirchen
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://lsd.newmedia.tiscali-business.com/bb/redirect.lsc?content=download&media=http&stream=freestream/radioeuskirchen/frameset.html','RE','resizable=1,width=660,height=510,top=60,left=60'))">48
+        Kbps</a>
+    format: Hot Adult Contemporary
+230: 
+    radio: http://www.radiof.de/
+    radio_name: Radio F
+    location: <nr/><td>Nürnberg
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://213.200.64.229/freestream/download/radiof/frameset.html','RF','resizable=1,width=660,height=510,top=60,left=60'))">128
+        Kbps</a>
+    format: Schlager/Evergreens
+231: 
+    radio: http://www2.fantasy.de/
+    radio_name: Radio Fantasy
+    location: <nr/><td>Augsburg
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://stream.fantasy.de:8000/radiofantasy.mp3.m3u">128
+        Kbps</a>
+    format: Dance
+232: 
+    radio: http://www.radiofdz.de/
+    radio_name: Radio FDZ
+    location: <nr/><td>Prerow
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://s9.pop-stream.de:9700/listen.pls">128
+        Kbps</a>
+    format: Local service
+233: 
+    radio: http://www.ffn.de/
+    radio_name: Radio ffn
+    location: <nr/><td>Hannover
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://www.ffn.de/tune-in/tunein_ffn.pls">96
+        Kbps</a>
+    format: Hot Adult Contemporary
+234: 
+    radio: http://www.radio-flensburg.de/
+    radio_name: Radio Flensburg
+    location: <nr/><td>Flensburg
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://www.digital-webstream.de/stream/10885.m3u">128
+        Kbps</a>
+    format: Local service
+235: 
+    radio: http://www.radioflora.de/
+    radio_name: Radio Flora
+    location: <nr/><td>Hannover
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: <a href="http://88.198.52.2:8000/live.mp3.m3u">128 Kbps</a>
+    format: Diverse
+236: 
+    radio: >
+        javascript:void(window.open('http://213.200.64.229/freestream/download/radiofortuna/frameset.html','fortuna','width=660,height=510,top=60,left=60'))">128
+        Kbps</a></td><nr/><td>Oldies/information</td><nr/></tr><nr/><nr/><nr/><tr><nr/><td><a
+        href="http://www.freefm.de/
+    radio_name: Radio freeFM
+    location: <nr/><td>Ulm
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://freefm.lauschangriff.org/freefm128k.m3u">128
+        Kbps</a>
+    format: Local service/free radio
+237: 
+    radio: http://www.radio-frei.de/
+    radio_name: Radio Frei
+    location: <nr/><td>Erfurt
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://217.172.183.184:8000/Radio-F.R.E.I.m3u">96
+        Kbps</a>
+    format: Local service/free radio
+238: 
+    radio: http://www.galaxybamberg.de/
+    radio_name: Radio Galaxy 104.7
+    location: <nr/><td>Bamberg
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://www.galaxybamberg.de/galaxy.pls">128
+        Kbps</a>
+    format: Top 40
+239: 
+    radio: http://www.radio-galaxy.de/galaxy/local/ingolstadt.php
+    radio_name: Radio Galaxy 107,9
+    location: <nr/><td>Ingolstadt
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://www.4broadcast.de/galaxy/galaxyhigh.m3u">128
+        Kbps</a>
+    format: Top 40
+240: 
+    radio: http://www.radio-galaxy.de/galaxy/local/bayreuth.php
+    radio_name: Radio Galaxy 92,7
+    location: <nr/><td>Bayreuth
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://radio-galaxy.mwsc.tmt.de/listen.pls">128
+        Kbps</a>
+    format: Top 40
+241: 
+    radio: http://www.radio-galaxy.de/galaxy/local/passau.php
+    radio_name: Radio Galaxy 91,7
+    location: <nr/><td>Passau
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a href="http://regio-tv-streamer.de/unserradiogalaxy">64
+        Kbps</a>
+    format: Top 40
+242: 
+    radio: http://www.radio-galaxy.de/galaxy/local/rosenheim.php
+    radio_name: Radio Galaxy 106,6
+    location: <nr/><td>Rosenheim
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://mediencenter-augsburg.de/streamserver/Galaxy_Rosenheim/Stream_Galaxy.m3u">128
+        Kbps</a>
+    format: Top 40
+243: 
+    radio: http://www.radio-galaxy.de/galaxy/local/hof.php
+    radio_name: Radio Galaxy 94,0
+    location: <nr/><td>Hof
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://edge.download.newmedia.nacamar.net/freestream/download/radiogalaxy/frameset.html','galaxy','width=660,height=530,top=60,left=60'))">WebPlayer</a>
+    format: Top 40
+244: 
+    radio: http://www.galaxyansbach.de/
+    radio_name: Radio Galaxy 105,8
+    location: <nr/><td>Ansbach
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://www.galaxyansbach.de:8000/live.m3u">48
+        Kbps</a>
+    format: Top 40
+245: 
+    radio: http://www.gong971.de/
+    radio_name: Radio Gong 97,1
+    location: <nr/><td>Nürnberg
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://213.200.64.229/freestream/download/radiogong/frameset.html','RG971','resizable=1,width=660,height=510,top=60,left=60'))">96
+        Kbps</a>
+    format: Top 40
+246: 
+    radio: http://www.radiogong.de/
+    radio_name: Radio Gong 96,3
+    location: <nr/><td>Munich
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://radiator2.nci.de:8000/high_q.m3u">96
+        Kbps</a>
+    format: Top 40
+247: 
+    radio: http://www.radiogong.com/
+    radio_name: Radio Gong 106,9
+    location: <nr/><td>Würzburg
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://213.200.64.229/freestream/download/gongfm/frameset_real.html','RG1069','resizable=1,width=660,height=510,top=60,left=60'))">128
+        Kbps</a>
+    format: Top 40
+248: 
+    radio: http://www.radioguetersloh.de/
+    radio_name: Radio Gütersloh
+    location: <nr/><td>Gütersloh
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://213.200.64.229/freestream/download/radioguetersloh/frameset.html','gut','resizable=1,width=660,height=510,top=60,left=60'))">64
+        Kbps</a>
+    format: Hot Adult Contemporary
+249: 
+    radio: http://107.7radiohagen.de/
+    radio_name: Radio Hagen
+    location: <nr/><td>Hagen
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://edge.download.newmedia.nacamar.net/freestream/download/radiohagen/frameset.html','hagen','width=660,height=530,top=60,left=60'))">128
+        Kbps</a>
+    format: Hot Adult Contemporary
+250: 
+    radio: http://www.radiohamburg.de/
+    radio_name: Radio Hamburg
+    location: <nr/><td>Hamburg
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="http://213.200.64.229/freestream/download/radiohamburg/new/frame.html"
+        onclick="window.open('http://213.200.64.229/freestream/download/radiohamburg/new/frame.html','','width=640,height=595,toolbar=no,scrollbars=no,resizable=no,top=100,left=100');
+        return false">128 Kbps</a>
+    format: Hot Adult Contemporary
+251: 
+    radio: http://www.radio-heimatmelodie.de/
+    radio_name: Radio Heimatmelodie
+    location: <nr/><td>Munich
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a href="http://webradio.radio-heimatmelodie.de/live.asx">64
+        Kbps</a><br /><a href="http://212.77.178.166/listen.pls">128
+        Kbps</a>
+    format: Volksmusik
+252: 
+    radio: http://www.radioherford.de/
+    radio_name: Radio Herford
+    location: <nr/><td>Herford
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://213.200.64.229/freestream/download/radioherford/frameset.html','herford','width=660,height=510,top=60,left=60'))">64
+        Kbps</a>
+    format: Hot Adult Contemporary
+253: 
+    radio: http://www.radio-herne.de/
+    radio_name: Radio Herne90acht
+    location: <nr/><td>Herne
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://edge.download.newmedia.nacamar.net/freestream/download/radioherne/frameset.html','herne','width=660,height=530,top=60,left=60'))">128
+        Kbps</a>
+    format: Hot Adult Contemporary
+254: 
+    radio: http://www.hitwelle.de/
+    radio_name:  Radio Hitwelle
+    location: <nr/><td>Erding
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: <a href="mms://stream.hitwelle.de/hitwelle">96 Kbps</a>
+    format: Pop
+255: 
+    radio: http://www.hitwelle.de/
+    radio_name:  Radio Hitwelle
+    location: <nr/><td>Freising
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: <a href="mms://stream.hitwelle.de/hitwelle2">96 Kbps</a>
+    format: Pop
+256: 
+    radio: http://www.radiohochstift.de/
+    radio_name: Radio Hochstift
+    location: <nr/><td>Paderborn
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://213.200.64.229/freestream/download/radiohochstift/frameset.html','hochstift','width=660,height=510,top=60,left=60'))">64
+        Kbps</a>
+    format: Hot Adult Contemporary
+257: 
+    radio: http://www.radio-io.de/
+    radio_name: Radio Idar-Oberstein
+    location: <nr/><td>Idar-Oberstein
+    img: >
+        <img src="aacplus.gif" width="12" height="12" alt="aacplus"
+        />
+    listen: >
+        <a href="http://stream.telvi.de:8000/antenne_idar.m3u">64
+        Kbps</a>
+    format: Adult Contemporary
+258: 
+    radio: http://www.radio-in.de/
+    radio_name: Radio IN
+    location: <nr/><td>Ingolstadt
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: <a href="http://4broadcast.de/radioin.m3u">128 Kbps</a>
+    format: Adult Contemporary
+259: 
+    radio: http://www.radiojade.de/
+    radio_name: Radio Jade
+    location: <nr/><td>Wilhelmshaven
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://streaming.radiojade.de/winamp.pls">128
+        Kbps</a>
+    format: Local service
+260: 
+    radio: http://www.radio-kiepenkerl.de/
+    radio_name: Radio Kiepenkerl
+    location: <nr/><td>Dülmen
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://www.inparty-fm.de:8002/listen.pls">112
+        Kbps</a>
+    format: Hot Adult Contemporary
+261: 
+    radio: http://www.radio-koe.de/
+    radio_name: Radio Kö
+    location: <nr/><td>Augsburg
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://duesseldorf.radiostream.de:28345/listen.pls">64
+        Kbps</a>
+    format: Oldies
+262: 
+    radio: http://www.radiokoeln.de/
+    radio_name: Radio Köln
+    location: <nr/><td>Cologne
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://lsd.newmedia.tiscali-business.com/bb/redirect.lsc?content=download&media=http&stream=freestream/radiokoeln2/frameset_ie.html','RK','resizable=1,width=660,height=510,top=60,left=60'))">48
+        Kbps</a>
+    format: Hot Adult Contemporary
+263: 
+    radio: http://www.radiokw.de/
+    radio_name: Radio K.W.
+    location: <nr/><td>Rheinberg
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://edge.download.newmedia.nacamar.net/freestream/download/radiokw/frameset.html','radiokw','width=660,height=530,top=60,left=60'))">128
+        Kbps</a>
+    format: Hot Adult Contemporary
+264: 
+    radio: http://www.radiolausitz.net/
+    radio_name: Radio Lausitz 107.6
+    location: <nr/><td>Görlitz
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="http://radiolausitz.stream.green.ch/radiolausitz.wax">64
+        Kbps</a>
+    format: Hot Adult Contemporary
+265: 
+    radio: http://www.radioleipzig.net/
+    radio_name: Radio Leipzig 91.3
+    location: <nr/><td>Leipzig
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="http://radioleipzig.stream.green.ch/radioleipzig.wax">64
+        Kbps</a>
+    format: Hot Adult Contemporary
+266: 
+    radio: http://www.radioleverkusen.de/
+    radio_name: Radio Leverkusen
+    location: <nr/><td>Leverkusen
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://213.200.64.229/freestream/download/radioleverkusen/frameset.html','leverkusen','width=660,height=510,top=60,left=60'))">48
+        Kbps</a>
+    format: Hot Adult Contemporary
+267: 
+    radio: http://www.radiolippe.de/
+    radio_name: Radio Lippe
+    location: <nr/><td>Detmold
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://213.200.64.229/freestream/download/radiolippe/frameset.html','lippe','width=660,height=510,top=60,left=60'))">64
+        Kbps</a>
+    format: Hot Adult Contemporary
+268: 
+    radio: http://www.lippewelle.de/
+    radio_name: Radio Lippewelle Hamm
+    location: <nr/><td>Hamm
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://s2.global-streaming.net:8800/listen.pls">64
+        Kbps</a>
+    format: Hot Adult Contemporary
+269: 
+    radio: http://www.radio-mainwelle.de/
+    radio_name: Radio Mainwelle
+    location: <nr/><td>Bayreuth
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://radio-mainwelle.mwsc.tmt.de/listen.pls">128
+        Kbps</a>
+    format: Adult Contemporary
+270: 
+    radio: http://www.radio-mittweida.de/
+    radio_name: 99drei Radio Mittweida
+    location: <nr/><td>Mittweida
+    img: >
+        <img src="ogg.gif" width="12" height="12" alt="Ogg Vorbis"
+        />
+    listen: >
+        <a
+        href="http://www.htwm.de/netradio/index.php/playlist.pls">128
+        Kbps</a>
+    format: Local service
+271: 
+    radio: http://www.radio-mk.de/
+    radio_name: Radio MK
+    location: <nr/><td>Iserlohn
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: <a href="mms://MEDIASERVER.DOKOM21.DE/RADIO-MK">64 Kbps</a>
+    format: Adult Contemporary
+272: 
+    radio: http://www.multicult20.de/
+    radio_name: Radio multicult2.0
+    location: <nr/><td>Berlin
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://radiostream.de/stream/36525.m3u">128
+        Kbps</a>
+    format: Multicultural/World music
+273: 
+    radio: http://www.92.9radiomuelheim.de/
+    radio_name: 92.9 Radio Mülheim
+    location: <nr/><td>Mülheim
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://edge.download.newmedia.nacamar.net/freestream/download/radiomuelheim/frameset.html','mulheim','width=660,height=530,top=60,left=60'))">128
+        Kbps</a>
+    format: Hot Adult Contemporary
+274: 
+    radio: http://www.radioneandertal.de/
+    radio_name: Radio Neandertal
+    location: <nr/><td>Mettmann
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://213.200.64.229/freestream/download/neandertal/frameset.html','RN','resizable=1,width=660,height=510,top=60,left=60'))">48
+        Kbps</a>
+    format: Hot Adult Contemporary
+275: 
+    radio: http://www.radionora.de/
+    radio_name: Radio Nora
+    location: <nr/><td>Kiel
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a
+        href="javascript:nora=void(window.open('http://lsd.newmedia.tiscali-business.com/bb/redirect.lsc?content=download&media=http&stream=freestream/radionora/frameset.html','nora','width=468,height=253,top=60,left=60'))">64
+        Kbps</a><br /><a
+        href="http://edge.live.mp3.mdn.newmedia.nacamar.net/stbradionora/livestream.mp3.m3u">128
+        Kbps</a>
+    format: Oldies
+276: 
+    radio: http://www.106.2radiooberhausen.de/
+    radio_name: Radio Oberhausen
+    location: <nr/><td>Oberhausen
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://edge.download.newmedia.nacamar.net/freestream/download/radiooberhausen/frameset.html','oberhausen','width=660,height=530,top=60,left=60'))">128
+        Kbps</a>
+    format: Hot Adult Contemporary
+277: 
+    radio: http://www.radio-oberland.de/
+    radio_name: Radio Oberland
+    location: <nr/><td>Garmisch
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://icerobl.odmsnet.eu/plsfiles/robl/robl_hi.m3u">128
+        Kbps</a>
+    format: Adult Contemporary
+278: 
+    radio: http://www.radiookerwelle.de/
+    radio_name: Radio Okerwelle
+    location: <nr/><td>Braunschweig
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://radiostream.de/stream/35575.pls">128
+        Kbps</a>
+    format: Local service
+279: 
+    radio: http://neu.radio-ostfriesland.com/
+    radio_name: Radio Ostfriesland
+    location: <nr/><td>Emden
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://dus.radiostream.de:36949/listen.pls">128
+        Kbps</a>
+    format: Local service
+280: 
+    radio: http://www.radiopaloma.de/
+    radio_name: Radio Paloma
+    location: <nr/><td>Berlin
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://sc1.netstreamer.net:8142/listen.pls">128
+        Kbps</a>
+    format: Schlager/Volksmusik
+281: 
+    radio: http://www.radioparadiso.de/
+    radio_name: Radio Paradiso
+    location: <nr/><td>Berlin
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="http://213.73.109.6/radio-paradiso?WMThinning=0&WMContentBitrate=40000">40
+        Kbps</a>, <a
+        href="http://213.73.109.6/radio-paradiso?WMThinning=0">128
+        Kbps</a>
+    format: Adult Contemporary
+282: 
+    radio: http://www.radio-pirmasens.de/
+    radio_name: Radio Pirmasens
+    location: <nr/><td>Pirmasens
+    img: >
+        <img src="aacplus.gif" width="12" height="12" alt="aacPlus"
+        />
+    listen: >
+        <a
+        href="http://stream.telvi.de:8000/antenne_pirmasens.m3u">64
+        Kbps</a>
+    format: Adult Contemporary
+283: 
+    radio: http://www.radio-plassenburg.de/
+    radio_name: Radio Plassenburg
+    location: <nr/><td>Kulmbach
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://admin2.321stream.de/tunein.php/kd185/playlist.pls">128
+        Kbps</a>
+    format: Oldies/Schlager
+284: 
+    radio: http://www.radioprimaton.de/
+    radio_name: Radio PrimaTon
+    location: <nr/><td>Schweinfurt
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://webradio.radioprimaton.de:8000/listen.pls">64
+        Kbps</a>
+    format: Adult Contemporary
+285: 
+    radio: http://www.radio-primavera.de/
+    radio_name: Radio Primavera
+    location: <nr/><td>Aschaffenburg
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://hellfireserver.de/static/primavera.m3u">96
+        Kbps</a>
+    format: Local service
+286: 
+    radio: http://www.radiopsr.de/
+    radio_name: Radio PSR
+    location: <nr/><td>Leipzig
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="http://lsd.newmedia.tiscali-business.com/bb/redirect.lsc?adid=0&stream=radio-psr$livestream.wma&content=live&media=ms">64
+        Kbps</a>
+    format: Adult Contemporary
+287: 
+    radio: http://www.radioq.de/
+    radio_name: Radio Q
+    location: <nr/><td>Münster
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://www.radioq.de/stream/klein.m3u">56 Kbps</a>,
+        <a href="http://www.radioq.de/stream/gross.m3u">128 Kbps</a>
+    format: Student Radio
+288: 
+    radio: http://www.radio-ramasuri.de/
+    radio_name: Radio Ramasuri
+    location: <nr/><td>Weiden
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://ramasuri.blm.netlantic.net:8080/play_live.php?server=ramasuri.blm.netlantic.net&codec=MP">64
+        Kbps</a>
+    format: Classic Hits
+289: 
+    radio: http://www.regenbogenweb.de/
+    radio_name: Radio Regenbogen
+    location: <nr/><td>Mannheim
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: <a href="http://webradio.regenbogen.de/live">96 Kbps</a>
+    format: Hot Adult Contemporary
+290: 
+    radio: http://www.radio-rheinwelle.de/
+    radio_name: Radio Rheinwelle
+    location: <nr/><td>Wiesbaden
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://rheinwelle.s2.onlinestream.de/listen1.m3u">64
+        Kbps</a>
+    format: Local service
+291: 
+    radio: http://www.radiorst.de/
+    radio_name: Radio RST
+    location: <nr/><td>Rheine
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://stream.radiorst.de:8000/rst128k.m3u">128
+        Kbps</a>
+    format: Hot Adult Contemporary
+292: 
+    radio: http://www.radiorur.de/
+    radio_name: Radio Rur
+    location: <nr/><td>Düren
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://213.200.64.229/freestream/download/radiorur/frameset.html','rur','width=660,height=510,top=60,left=60'))">WebPlayer</a>,
+        <a href="http://tiscali.project-fx.de/play.wma?radio=rur">48
+        Kbps</a>
+    format: Hot Adult Contemporary
+293: 
+    radio: http://www.radio-r.de/
+    radio_name: Radio Rüsselsheim
+    location: <nr/><td>Rüsselsheim
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: <a href="http://www.radio-r.de/radio-r.pls">32 Kbps</a>
+    format: Local service/free radio
+294: 
+    radio: http://www.radiorsg.de/
+    radio_name: Radio RSG
+    location: <nr/><td>Solingen
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://213.200.64.229/freestream/download/radiorsg/frameset.html','rsg','width=660,height=510,top=60,left=60'))">WebPlayer</a>,
+        <a href="http://tiscali.project-fx.de/play.wma?radio=rsg">48
+        Kbps</a>
+    format: Hot Adult Contemporary
+295: 
+    radio: http://www.radio-sb.de/
+    radio_name: Radio Saarbruecken
+    location: <nr/><td>Pirmasens
+    img: >
+        <img src="aacplus.gif" width="12" height="12" alt="aacplus"
+        />
+    listen: >
+        <a
+        href="http://stream.telvi.de:8000/antenne_saarbruecken.m3u">64
+        Kbps</a>
+    format: Adult Contemporary
+296: 
+    radio: http://www.salue.de/
+    radio_name: Radio Salü
+    location: <nr/><td>Saarbrücken
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:salue=void(window.open('http://edge.download.newmedia.nacamar.net/freestream/download/radiosalue/frameset_salue_96.html','salue','width=675,height=520,top=30,left=30'))">96
+        Kbps</a>
+    format: Hot Adult Contemporary
+297: 
+    radio: http://www.rox-modern-rock.de/
+    radio_name: Radio Salü Rox
+    location: <nr/><td>Saarbrücken
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:saluerox=void(window.open('http://edge.download.newmedia.nacamar.net/freestream/download/radiosalue/frameset_rox_96.html','saluerox','width=675,height=520,top=30,left=30'))">96
+        Kbps</a>
+    format: Modern Rock
+298: 
+    radio: http://www.rox-modern-rock.de/
+    radio_name: Radio Salü Groove 24
+    location: <nr/><td>Saarbrücken
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:saluegroove=void(window.open('http://edge.download.newmedia.nacamar.net/freestream/download/radiosalue/frameset_groove_96.html','saluegroove','width=675,height=520,top=30,left=30'))">96
+        Kbps</a>
+    format: RnB/HipHop
+299: 
+    radio: http://schlagerparty-radio.de/
+    radio_name: Radio Salü Schlager Party
+    location: <nr/><td>Saarbrücken
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:salueschlager=void(window.open('http://edge.download.newmedia.nacamar.net/freestream/download/radiosalue/frameset_schlager_96.html','salueschlager','width=675,height=520,top=30,left=30'))">96
+        Kbps</a>
+    format: Schlager
+300: 
+    radio: http://www.radio-sauerland.de/
+    radio_name: Radio Sauerland
+    location: <nr/><td>Meschede
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://edge.download.newmedia.nacamar.net/freestream/download/radiosauerland/frameset.html','sauerland','width=660,height=530,top=60,left=60'))">128
+        Kbps</a>
+    format: Hot Adult Contemporary
+301: 
+    radio: http://www.radiosaw.de/
+    radio_name: Radio SAW
+    location: <nr/><td>Magdeburg
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a
+        href="mms://edge.live.msmedia.mdn.newmedia.nacamar.net/radiosaw$livestream.wma">128
+        Kbps</a><br /><a
+        href="http://stream.radiosaw.de:8000/saw.m3u">64 Kbps</a>
+    format: Hot Adult Contemporary
+302: 
+    radio: http://www.radiosaw.de/
+    radio_name: Radio SAW Rock
+    location: <nr/><td>Magdeburg
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a
+        href="mms://edge.live.msmedia.mdn.newmedia.nacamar.net/radiosaw$rock">128
+        Kbps</a><br /><a
+        href="http://stream.radiosaw.de:8000/sawrock.m3u">64
+        Kbps</a>
+    format: Rock
+303: 
+    radio: http://www.radiosaw.de/
+    radio_name: Radio SAW Neuheiten
+    location: <nr/><td>Magdeburg
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a
+        href="mms://edge.live.msmedia.mdn.newmedia.nacamar.net/radiosaw$neu">128
+        Kbps</a><br /><a
+        href="http://stream.radiosaw.de:8000/sawneuheiten.m3u">64
+        Kbps</a>
+    format: Top 40
+304: 
+    radio: http://www.radiosaw.de/
+    radio_name: Radio SAW Party
+    location: <nr/><td>Magdeburg
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a
+        href="mms://edge.live.msmedia.mdn.newmedia.nacamar.net/radiosaw$party">128
+        Kbps</a><br /><a
+        href="http://stream.radiosaw.de:8000/sawparty.m3u">64
+        Kbps</a>
+    format: Pop
+305: 
+    radio: http://www.radiosaw.de/
+    radio_name: Radio SAW 90er
+    location: <nr/><td>Magdeburg
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a
+        href="mms://edge.live.msmedia.mdn.newmedia.nacamar.net/radiosaw$90er">128
+        Kbps</a><br /><a
+        href="http://stream.radiosaw.de:8000/saw90er.m3u">64
+        Kbps</a>
+    format: 90s music
+306: 
+    radio: http://www.radiosaw.de/
+    radio_name: Radio SAW 80er
+    location: <nr/><td>Magdeburg
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a
+        href="mms://edge.live.msmedia.mdn.newmedia.nacamar.net/radiosaw$80er">128
+        Kbps</a><br /><a
+        href="http://stream.radiosaw.de:8000/saw80er.m3u">64
+        Kbps</a>
+    format: 80s music
+307: 
+    radio: http://www.radiosaw.de/
+    radio_name: Radio SAW 70er
+    location: <nr/><td>Magdeburg
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a
+        href="mms://edge.live.msmedia.mdn.newmedia.nacamar.net/radiosaw$70er">128
+        Kbps</a><br /><a
+        href="http://stream.radiosaw.de:8000/saw70er.m3u">64
+        Kbps</a>
+    format: 70s music
+308: 
+    radio: http://www.rsh.de/
+    radio_name: Radio Schleswig Holstein
+    location: <nr/><td>Kiel
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://213.200.64.229/freestream/download/rsh/frameset_ie_wmt.html','RSH','resizable=1,width=675,height=530,top=60,left=60'))">64
+        Kbps</a>
+    format: Hot Adult Contemporary
+309: 
+    radio: http://www.radio-seefunk.de/
+    radio_name: Radio Seefunk
+    location: <nr/><td>Konstanz
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="http://stream.radio-seefunk.de/Seefunk/Seefunk.asx">48
+        Kbps</a>
+    format: Adult Contemporary
+310: 
+    radio: http://www.radio-siegen.de/
+    radio_name: Radio Siegen
+    location: <nr/><td>Siegen
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://web.radio-siegen.de:8000/live.m3u">96
+        Kbps</a>
+    format: Hot Adult Contemporary
+311: 
+    radio: http://www.radio-smile.de/
+    radio_name: Radio Smile
+    location: <nr/><td>Internet only
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a href="mms://radiosmile.ip-streaming.net/radiosmile">128
+        Kbps</a>
+    format: Holiday hits
+312: 
+    radio: http://www.sthoerfunk.de/
+    radio_name: Radio StHörfunk
+    location: <nr/><td>Schwäbisch Hall
+    img: >
+        <img src="ogg.gif" width="12" height="12" alt="Ogg Vorbis"
+        />
+    listen: >
+        <a
+        href="http://stream.sthoerfunk.de:7000/sthoerfunk.ogg.m3u">48
+        Kbps</a>
+    format: Local service/free radio
+313: 
+    radio: http://www.radioteddy.de/
+    radio_name: Radio Teddy
+    location: <nr/><td>Berlin
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://www.unitcom.net/player/radioteddy/listen.pls">56
+        Kbps</a>
+    format: Children's radio
+314: 
+    radio: http://www.radioton.de/
+    radio_name: Radio TON
+    location: <nr/><td>Heilbronn
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: <a href="http://live.radio-ton.de/live64.m3u">64 Kbps</a>
+    format: Rock/Pop
+315: 
+    radio: http://www.radioton.de/
+    radio_name: Radio TON Bad Mergentheim
+    location: <nr/><td>Bad Mergentheim
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: <a href="http://live.radio-ton.de/live-mgh.m3u">64 Kbps</a>
+    format: Rock/Pop
+316: 
+    radio: http://www.radioton.de/
+    radio_name: Radio TON Neckar Alb
+    location: <nr/><td>Reutlingen
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: <a href="http://live.radio-ton.de/live-na.m3u">48 Kbps</a>
+    format: Rock/Pop
+317: 
+    radio: http://www.radioton.de/
+    radio_name: Radio TON Ostwürttemberg 
+    location: <nr/><td>Aalen
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: <a href="http://live.radio-ton.de/live-owb.m3u">48 Kbps</a>
+    format: Rock/Pop
+318: 
+    radio: http://www.radiotop40.de/
+    radio_name: Radio Top 40
+    location: <nr/><td>Weimar
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://lsd.newmedia.tiscali-business.com/bb/redirect.lsc?content=download&amp;media=http&amp;stream=freestream/radiotop40/frameset.html','rtop40','resizable=1,width=660,height=510,top=60,left=60'))">64
+        Kbps</a>
+    format: Top 40
+319: 
+    radio: http://www.radio-trausnitz.de/
+    radio_name: Radio Trausnitz
+    location: <nr/><td>Landshut
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://edge.download.newmedia.nacamar.net/freestream/download/radiotrausnitz/frameset.html','trausnitz','width=660,height=500,top=30,left=30'))">WebPlayer</a>,
+        <a
+        href="http://edge.live.mp3.mdn.newmedia.nacamar.net/radiotrausnitzmobile/livestream.mp3.m3u">64
+        Kbps</a>
+    format: Adult Contemporary/Oldies
+320: 
+    radio: http://www.triquency.de/
+    radio_name: Radio Triquency
+    location: <nr/><td>Lemgo
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://livestream.triquency.de:8000/live48.mp3.m3u">48
+        Kbps</a>, <a
+        href="http://livestream.triquency.de:8000/live128.mp3.m3u">128
+        Kbps</a>
+    format: Student radio
+321: 
+    radio: http://www.radio-rum.de/
+    radio_name: Radio Unerhört Marburg
+    location: <nr/><td>Marburg
+    img: >
+        <img src="ogg.gif" width="12" height="12" alt="Ogg Vorbis"
+        />
+    listen: >
+        <a href="http://stream.radio-rum.de:8000/rum.ogg.m3u">64
+        Kbps</a>
+    format: Local service/free radio
+322: 
+    radio: http://www.radiowaf.de/
+    radio_name: Radio WAF
+    location: <nr/><td>Warendorf
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://lsd.newmedia.tiscali-business.com/bb/redirect.lsc?content=download&media=http&stream=freestream/radiowaf/frameset.html','waf','resizable=1,width=660,height=510,top=60,left=60'))">64
+        Kbps</a>
+    format: Hot Adult Contemporary
+323: 
+    radio: http://www.radiowestfalica.de/
+    radio_name: Radio Westfalica
+    location: <nr/><td>Minden
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://lsd.newmedia.tiscali-business.com/bb/redirect.lsc?content=download&media=http&stream=freestream/radiowestfalica/frameset.html','westf','resizable=1,width=660,height=510,top=60,left=60'))">64
+        Kbps</a>
+    format: Hot Adult Contemporary
+324: 
+    radio: http://www.radiowmw.de/
+    radio_name: Radio WMV
+    location: <nr/><td>Borken
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://stream.radiowmw.de:8000/wmw128k.m3u">128
+        Kbps</a>
+    format: Hot Adult Contemporary
+325: 
+    radio: http://www.radiowuppertal.de/
+    radio_name: Radio Wuppertal
+    location: <nr/><td>Wuppertal
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://213.200.64.229/freestream/download/radiowuppertal/frameset.html','rtop40','resizable=1,width=660,height=510,top=60,left=60'))">48
+        Kbps</a>
+    format: Hot Adult Contemporary
+326: 
+    radio: http://www.radiox.de/
+    radio_name: Radio X
+    location: <nr/><td>Frankfurt
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: <a href="http://www.radiox.de/files/radiox.m3u">128 Kbps</a>
+    format:  Local service/free radio
+327: 
+    radio: http://www.radio-z.net/
+    radio_name: Radio Z
+    location: <nr/><td>Nürnberg
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://www.distler-tontechnik.de/Radio-Z-Live.m3u">160
+        Kbps</a>
+    format: Local service/free radio
+328: 
+    radio: http://www.zusa.de/
+    radio_name: Radio Zusa
+    location: <nr/><td>Lüneburg
+    img: >
+        <img src="ogg.gif" width="12" height="12" alt="ogg Vorbis"
+        />
+    listen: <a href="http://zusamatic.lemm.ws/zusa.m3u">192 Kbps</a>
+    format: Community radio
+329: 
+    radio: http://www.radiozwickau.net/
+    radio_name: Radio Zwickau 96.2
+    location: <nr/><td>Zwickau
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="http://radiozwickau.stream.green.ch/radiozwickau.wax">64
+        Kbps</a>
+    format: Hot Adult Contemporary
+330: 
+    radio: http://www.rautemusik.fm/
+    radio_name: RauteMusik Main
+    location: <nr/><td>Internet only
+    img: >
+        <img src="mp3.gif" width="12" height="12" alt="MP3" /><br
+        /><img src="aacplus.gif" width="12" height="12"
+        alt="aacplus" />
+    listen: >
+        <a href="http://main-high.rautemusik.fm/listen.pls">128
+        Kbps</a><br /><a
+        href="http://main-aacp.rautemusik.fm/listen.pls">48 Kbps</a>
+    format: Pop/rock
+331: 
+    radio: http://www.rautemusik.fm/
+    radio_name: RauteMusik Club
+    location: <nr/><td>Internet only
+    img: >
+        <img src="mp3.gif" width="12" height="12" alt="MP3" /><br
+        /><img src="aacplus.gif" width="12" height="12"
+        alt="aacplus" />
+    listen: >
+        <a href="http://club-high.rautemusik.fm/listen.pls">128
+        Kbps</a><br /><a
+        href="http://club-aacp.rautemusik.fm/listen.pls">48 Kbps</a>
+    format: Techno/Trance/Dance
+332: 
+    radio: http://www.rautemusik.fm/
+    radio_name: RauteMusik eXTreMe
+    location: <nr/><td>Internet only
+    img: >
+        <img src="mp3.gif" width="12" height="12" alt="MP3" /><br
+        /><img src="aacplus.gif" width="12" height="12"
+        alt="aacplus" />
+    listen: >
+        <a href="http://extreme-high.rautemusik.fm/listen.pls">128
+        Kbps</a><br /><a
+        href="http://extreme-aacp.rautemusik.fm/listen.pls">48
+        Kbps</a>
+    format: Rock/Metal/Alternative
+333: 
+    radio: http://www.rautemusik.fm/
+    radio_name: RauteMusik JaM
+    location: <nr/><td>Internet only
+    img: >
+        <img src="mp3.gif" width="12" height="12" alt="MP3" /><br
+        /><img src="aacplus.gif" width="12" height="12"
+        alt="aacplus" />
+    listen: >
+        <a href="http://jam-high.rautemusik.fm/listen.pls">128
+        Kbps</a><br /><a
+        href="http://jam-aacp.rautemusik.fm/listen.pls">48 Kbps</a>
+    format: HipHop/RnB
+334: 
+    radio: http://www.rautemusik.fm/
+    radio_name: RauteMusik FunkY
+    location: <nr/><td>Internet only
+    img: >
+        <img src="mp3.gif" width="12" height="12" alt="MP3" /><br
+        /><img src="aacplus.gif" width="12" height="12"
+        alt="aacplus" />
+    listen: >
+        <a href="http://funky-high.rautemusik.fm/listen.pls">128
+        Kbps</a><br /><a
+        href="http://funky-aacp.rautemusik.fm/listen.pls">48
+        Kbps</a>
+    format: House/Dance
+335: 
+    radio: http://www.rautemusik.fm/
+    radio_name: RauteMusik Lounge
+    location: <nr/><td>Internet only
+    img: >
+        <img src="mp3.gif" width="12" height="12" alt="MP3" /><br
+        /><img src="aacplus.gif" width="12" height="12"
+        alt="aacplus" />
+    listen: >
+        <a href="http://lounge-high.rautemusik.fm/listen.pls">128
+        Kbps</a><br /><a
+        href="http://lounge-aacp.rautemusik.fm/listen.pls">48
+        Kbps</a>
+    format: Ambient/Chillout
+336: 
+    radio: http://www.rautemusik.fm/
+    radio_name: RauteMusik Goldies
+    location: <nr/><td>Internet only
+    img: >
+        <img src="mp3.gif" width="12" height="12" alt="MP3" /><br
+        /><img src="aacplus.gif" width="12" height="12"
+        alt="aacplus" />
+    listen: >
+        <a href="http://goldies-high.rautemusik.fm/listen.pls">128
+        Kbps</a><br /><a
+        href="http://goldies-aacp.rautemusik.fm/listen.pls">48
+        Kbps</a>
+    format: 60s/70s/80s Oldies
+337: 
+    radio: http://www.rautemusik.fm/
+    radio_name: RauteMusik BigCityBeats
+    location: <nr/><td>Internet only
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://bcb-high.rautemusik.fm/listen.pls">128
+        Kbps</a>
+    format: House, Electronic,
+338: 
+    radio: http://www.rautemusik.fm/
+    radio_name: RauteMusik HardeR
+    location: <nr/><td>Internet only
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://harder-high.rautemusik.fm/listen.pls">128
+        Kbps</a>
+    format: Hardstyle, Hardcore, Jumpstyle
+339: 
+    radio: http://www.rmnradio.de/
+    radio_name: RMN Radio
+    location: <nr/><td>Internet only
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://rmnradio.powerstream.de:8022/listen.pls">128
+        Kbps</a>
+    format: Pop/Mix
+340: 
+    radio: http://www.kuschel.fm/
+    radio_name: RMN Kuschel.fm
+    location: <nr/><td>Internet only
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://kuschelfm.powerstream.de:8040/listen.pls">128
+        Kbps</a>
+    format: Love songs
+341: 
+    radio: http://www.powerstream.de/
+    radio_name: RMNpowerstream
+    location: <nr/><td>Internet only
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://server.powerstream.de:30846/listen.pls">128
+        Kbps</a>
+    format: Dance/techno
+342: 
+    radio: http://www.rmnrelax.de/
+    radio_name: RMNrelax
+    location: <nr/><td>Internet only
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://rmnrelax1.powerstream.de:8023/listen.pls">128
+        Kbps</a>
+    format: Chillout
+343: 
+    radio: http://www.schlagerhoelle.de/
+    radio_name: RMN Schlagerhoelle
+    location: <nr/><td>Internet only
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://server2.schlagerhoelle.de:30842/listen.pls">128
+        Kbps</a>
+    format: Schlager
+344: 
+    radio: http://www.rmnsoulstar.de/
+    radio_name: RMN Soulstar
+    location: <nr/><td>Internet only
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://stream.rmnsoulstar.de:8010/listen.pls">128
+        Kbps</a>
+    format: Soul/RnB
+345: 
+    radio: http://www.rsa-sachsen.de/
+    radio_name: R.SA
+    location: <nr/><td>Leipzig
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://213.200.64.229/freestream/download/rsa-sachsen/frameset_wmt.html','rtop40','resizable=1,width=665,height=515,top=60,left=60'))">64
+        Kbps</a>
+    format: Adult Contemporary/Oldies
+346: 
+    radio: http://www.rt1.de/
+    radio_name: RT.1
+    location: <nr/><td>Augsburg
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: <a href="http://radiostream.de/stream/17840.m3u">64 Kbps</a>
+    format: Adult Contemporary
+347: 
+    radio: http://www.89.0rtl.de/
+    radio_name: 89.0 RTL
+    location: <nr/><td>Halle
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://www.89.0rtl.de/webradio/rtl-high.m3u">128
+        Kbps</a>
+    format: Top 40
+348: 
+    radio: http://104.6rtl.com/
+    radio_name: 104.6 RTL
+    location: <nr/><td>Berlin
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://213.200.64.229/freestream/download/104.6rtl/frameset_wmt.html','1046rtl','width=660,height=510,top=60,left=60'))">64
+        Kbps</a><br /><a
+        href="http://62.27.44.15/1046live_mp3mobil/livestream.mp3.m3u">64
+        Kbps</a>
+    format: Hot Adult Contemporary
+349: 
+    radio: http://104.6rtl.com/
+    radio_name: |
+        104.6 RTL - Best of Modern Rock & Pop
+    location: <nr/><td>Berlin
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://213.200.64.229/freestream/download/event1046rtl/frameset.html','1046rtlmp','width=680,height=530,top=60,left=60'))">128
+        Kbps</a><br /><a
+        href="http://62.27.44.15/1046mrp_mp3mobil/livestream.mp3.m3u">64
+        Kbps</a>
+    format: Rock/Pop
+350: 
+    radio: http://104.6rtl.com/
+    radio_name: |
+        104.6 RTL - Best of Live Music
+    location: <nr/><td>Berlin
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://edge.download.newmedia.nacamar.net/freestream/download/1046livemusic/frameset.html','1046rtllive','width=680,height=530,top=60,left=60'))">128
+        Kbps</a><br /><a
+        href="http://62.27.44.15/1046livemusic_mp3mobil/livestream.mp3.m3u">64
+        Kbps</a>
+    format: Live music
+351: 
+    radio: http://www.rs2.de/
+    radio_name: 94'3 rs2
+    location: <nr/><td>Berlin
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:rs2=void(window.open('http://www.rs2.de/static/liveradio/stream-radio-player-media.htm','rs2','width=660,height=550,top=30,left=30'))">128
+        Kbps</a>
+    format: Adult Contemporary
+352: 
+    radio: http://www.rs2.de/
+    radio_name: rs2  80er Kult-Hits
+    location: <nr/><td>Berlin
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://213.200.64.229/freestream/download/rs2channels/frameset_80er.html','rs280s','width=660,height=511,top=60,left=60'))">128
+        Kbps</a>
+    format: 80s hits
+353: 
+    radio: http://www.rs2.de/
+    radio_name: rs2 Club Classics
+    location: <nr/><td>Berlin
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://www.rs2.de/static/liveradio/classics/stream-radio-player-media.htm','rs2cc','width=660,height=511,top=60,left=60'))">128
+        Kbps</a>
+    format: Dance/Groove tracks
+354: 
+    radio: http://www.antennebrandenburg.de/
+    radio_name: RBB Antenne Brandenburg
+    location: <nr/><td>Potsdam
+    img: >
+        <img src="rm.gif" width="12" height="12" alt="Real Audio"
+        /><br /><img src="wma.gif" width="12" height="12"
+        alt="Windows Media" />
+    listen: >
+        <a href="http://www.antennebrandenburg.de/live.smil">44
+        Kbps</a><br /><a
+        href="http://www.antennebrandenburg.de/live.wax">48 Kbps</a>
+    format: Adult Contemporary
+355: 
+    radio: http://www.fritz.de/
+    radio_name: RBB Fritz
+    location: <nr/><td>Potsdam
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a href="http://www.fritz.de/live.wax">48 Kbps</a><br /><a
+        href="http://www.fritz.de/live.m3u">128 Kbps</a>
+    format: Top 40
+356: 
+    radio: http://www.radioeins.de/
+    radio_name: RBB Radio Eins
+    location: <nr/><td>Potsdam
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a href="http://www.radioeins.de/live.wax">48 Kbps</a><br
+        /><a href="http://www.radioeins.de/live.m3u">128 Kbps</a>
+    format: Adult Contemporary
+357: 
+    radio: http://www.inforadio.de/
+    radio_name: RBB InfoRadio
+    location: <nr/><td>Berlin
+    img: >
+        <img src="rm.gif" width="12" height="12" alt="Real Audio"
+        /><br /><img src="wma.gif" width="12" height="12"
+        alt="Windows Media" />
+    listen: >
+        <a href="http://www.inforadio.de/live.smil">44 Kbps</a><br
+        /><a href="http://www.inforadio.de/live.wax">48 Kbps</a>
+    format: News/Information
+358: 
+    radio: http://www.daskulturradio.de/
+    radio_name: RBB Kulturradio
+    location: <nr/><td>Berlin
+    img: >
+        <img src="rm.gif" width="12" height="12" alt="Real Audio"
+        /><br /><img src="wma.gif" width="12" height="12"
+        alt="Windows Media" />
+    listen: >
+        <a href="http://www.kulturradio.de/live.smil">44 Kbps</a><br
+        /><a href="http://www.kulturradio.de/live.wax">48 Kbps</a>
+    format: Classical
+359: 
+    radio: http://www.berlin888.de/
+    radio_name: RBB radioBERLIN 88,8
+    location: <nr/><td>Berlin
+    img: >
+        <img src="rm.gif" width="12" height="12" alt="Real Audio"
+        /><br /><img src="wma.gif" width="12" height="12"
+        alt="Windows Media" />
+    listen: >
+        <a href="http://www.radioberlin.de/live.smil">44 Kbps</a><br
+        /><a href="http://www.radioberlin.de/live.wax">48 Kbps</a>
+    format: Full service
+360: 
+    radio: http://www.rockland-digital.de/
+    radio_name: Rockland Digital
+    location: <nr/><td>Magdeburg
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://stream.rockland-digital.de:8000/rockland.m3u">128
+        Kbps</a>
+    format: Rock
+361: 
+    radio: http://www.rockland.de/
+    radio_name: Rockland Radio
+    location: <nr/><td>Pirmasens
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://rockland.ice.streaming.spacenet.de/rockland.m3u">128
+        Kbps</a>
+    format: Classic Rock
+362: 
+    radio: http://www.rockantenne.de/
+    radio_name: Rock Antenne
+    location: <nr/><td>Munich
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a href="mms://wms.webradio.rockantenne.de">96 Kbps</a><br
+        /><a
+        href="http://www.rockantenne.de/webradio/rockantenne.m3u">128
+        Kbps</a>
+    format: Rock
+363: 
+    radio: http://www.rockyfm.com/
+    radio_name: Rocky FM
+    location: <nr/><td>Internet only
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: <a href="http://www.rockyfm.com/listen.pls">128 Kbps</a>
+    format: Rock
+364: 
+    radio: http://www.rpr1.de/
+    radio_name: RPR1
+    location: <nr/><td>Ludwigshafen
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: <a href="http://217.151.151.46/rpr1">96 Kbps</a>
+    format: Top 40
+365: 
+    radio: http://www.rpr1.de/
+    radio_name: RPR1 Rock
+    location: <nr/><td>Ludwigshafen
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: <a href="http://217.151.151.46/rock">96 Kbps</a>
+    format: Rock
+366: 
+    radio: http://www.rpr1.de/
+    radio_name: RPR1 80er
+    location: <nr/><td>Ludwigshafen
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: <a href="http://217.151.151.46/80er">96 Kbps</a>
+    format: 80s music
+367: 
+    radio: http://www.rpr1.de/
+    radio_name: RPR1 New Songs
+    location: <nr/><td>Ludwigshafen
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: <a href="http://217.151.151.46/newsongs">96 Kbps</a>
+    format: Hot Adult Contemporary
+368: 
+    radio: http://www.rpr1.de/
+    radio_name: RPR1 Info
+    location: <nr/><td>Ludwigshafen
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: <a href="http://217.151.151.46/info">96 Kbps</a>
+    format: Information/music
+369: 
+    radio: http://www.rpr1.de/
+    radio_name: RPR2
+    location: <nr/><td>Ludwigshafen
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: <a href="http://217.151.151.46/rpr2">96 Kbps</a>
+    format: Schlager/Oldies
+370: 
+    radio: http://www.rsa-radio.de/
+    radio_name: RSA Radio
+    location: <nr/><td>Kempten
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://www.rsa-radio.de/UserFiles/Media/webradio/rsa.m3u">128
+        Kbps</a>
+    format: Oldies/Schlager
+371: 
+    radio: http://www.rsa-radio.de/
+    radio_name: RSA-ROAL-2
+    location: <nr/><td>Kempten
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://www.rsa-radio.de/UserFiles/Media/webradio/rsa3.m3u">192
+        Kbps</a>
+    format: Pop/Rock
+372: 
+    radio: http://www.oldiestar.de/schlagerstar/
+    radio_name: schlagerstar*
+    location: <nr/><td>Berlin
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://www.digitalradiostream.de:1575/listen.pls">192
+        Kbps</a>
+    format: Schlager
+373: 
+    radio: http://www.schwarzwaldradio.com/
+    radio_name: Schwarzwald Radio
+    location: <nr/><td>Offenburg
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://str31.creacast.com/hitradio_ohr_thema1.m3u">96
+        Kbps</a>
+    format: Oldies/Classic hits
+374: 
+    radio: http://www.sender-kw.de/
+    radio_name: Sender KW
+    location: <nr/><td>Königs Wusterhausen
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://server4.digital-webstream.de:17320/listen.pls">56
+        Kbps</a>
+    format: Adult Contemporary/Oldies
+375: 
+    radio: http://www.spreeradio.de/
+    radio_name: 105'5 Spreeradio
+    location: <nr/><td>Berlin
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a
+        href="javascript:1055live=void(window.open('http://edge.download.newmedia.nacamar.net/freestream/download/1055live/frameset.html','1055live','width=675,height=520,top=30,left=30'))">WebPlayer</a>,
+        <a
+        href="http://tiscali.project-fx.de/play.wma?radio=spree">128
+        Kbps</a><br /><a
+        href="http://62.27.44.15/1055live_mp3mobil/livestream.mp3.m3u">64
+        Kbps</a>
+    format: Adult Contemporary
+376: 
+    radio: http://www.spreeradio.de/
+    radio_name: 105'5 Spreeradio 70s
+    location: <nr/><td>Berlin
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:spree70=void(window.open('http://edge.download.newmedia.nacamar.net/freestream/download/1055seventies/frameset.html','spree70','width=675,height=520,top=30,left=30'))">WebPlayer</a>,
+        <a
+        href="http://tiscali.project-fx.de/play.wma?radio=spree70s">128
+        Kbps</a>
+    format: 70s music
+377: 
+    radio: http://www.spreeradio.de/
+    radio_name: 105'5 Spreeradio Classic Rock
+    location: <nr/><td>Berlin
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:spreecr=void(window.open('http://edge.download.newmedia.nacamar.net/freestream/download/1055classicrock/frameset.html','spreecr','width=675,height=520,top=30,left=30'))">WebPlayer</a>,
+        <a
+        href="http://tiscali.project-fx.de/play.wma?radio=spreecr">128
+        Kbps</a>
+    format: Classic Rock
+378: 
+    radio: http://www.spreeradio.de/
+    radio_name: 105'5 Spreeradio Live Songs
+    location: <nr/><td>Berlin
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:spreelivesongs=void(window.open('http://edge.download.newmedia.nacamar.net/freestream/download/1055livemusic/frameset.html','spreelivesongs','width=675,height=520,top=30,left=30'))">WebPlayer</a>,
+        <a
+        href="http://tiscali.project-fx.de/play.wma?radio=spreels">128
+        Kbps</a>
+    format: Live music
+379: 
+    radio: http://www.spreeradio.de/
+    radio_name: 105'5 Spreeradio Movie Stars
+    location: <nr/><td>Berlin
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:spreemovie=void(window.open('http://edge.download.newmedia.nacamar.net/freestream/download/1055moviestars/frameset.html','spreemovie','width=675,height=520,top=30,left=30'))">WebPlayer</a>,
+        <a
+        href="http://tiscali.project-fx.de/play.wma?radio=spreems">128
+        Kbps</a>
+    format: Film music
+380: 
+    radio: http://www.spreeradio.de/
+    radio_name: 105'5 Spreeradio Trus Colection
+    location: <nr/><td>Berlin
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:spreetrus=void(window.open('http://edge.download.newmedia.nacamar.net/freestream/download/spreeradioevent/frameset.html','spreetrus','width=675,height=520,top=30,left=30'))">WebPlayer</a>,
+        <a
+        href="http://tiscali.project-fx.de/play.wma?radio=spreetc">128
+        Kbps</a>
+    format: Oldies
+381: 
+    radio: http://www.stadtradio-goettingen.de/
+    radio_name: Stadtradio Göttingen
+    location: <nr/><td>Göttingen
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://stream.stadtradio-goettingen.de:8000/stadtradiolow.m3u">56
+        Kbps</a>, <a
+        href="http://stream.stadtradio-goettingen.de:8000/stadtradio.m3u">128
+        Kbps</a>
+    format: Local service
+382: 
+    radio: http://www.starfm.de/
+    radio_name: 87,9 Star FM
+    location: <nr/><td>Berlin
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://213.200.64.229/freestream/download/starfmberlin/frameset.html','starfm','width=660,height=510,top=60,left=60'))">128
+        Kbps</a>
+    format: Rock
+383: 
+    radio: http://www.starfm.de/
+    radio_name: Star FM
+    location: <nr/><td>Nuernberg
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:void(window.open('http://213.200.64.229/freestream/download/starfmnuernberg/frameset.html','starfmn','width=660,height=510,top=60,left=60'))">64
+        Kbps</a>
+    format: Rock
+384: 
+    radio: http://www.sunshinelive.de/
+    radio_name: Sunshine Live
+    location: <nr/><td>Schwetzingen
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a
+        href="mms://tiscali.project-fx.de/play.wma?radio=sunshine-live">96
+        Kbps</a><br /><a
+        href="http://62.26.214.248/sunshinelive/livestream.mp3.m3u">96
+        Kbps</a>
+    format: Dance Top 40
+385: 
+    radio: http://www.sr-online.de/sr1/
+    radio_name: SR 1 Europawelle
+    location: <nr/><td>Saarbrücken
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://streaming01.sr-online.de/sr1_1.m3u">56
+        Kbps</a>, <a
+        href="http://streaming01.sr-online.de/sr1_2.m3u">128
+        Kbps</a>
+    format: Top 40
+386: 
+    radio: http://www.sr-online.de/sr1/2407/
+    radio_name: |
+        SR 1 - Klassiker
+    location: <nr/><td>Saarbrücken
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://streaming02.sr-online.de/sr1klassiker.m3u">96
+        Kbps</a>
+    format: Classic hits (Web channel)
+387: 
+    radio: http://www.sr-online.de/sr1/2407/
+    radio_name: |
+        SR 1 - Lounge
+    location: <nr/><td>Saarbrücken
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://streaming02.sr-online.de/sr1lounge.m3u">96
+        Kbps</a>
+    format: Soft pop (Web channel)
+388: 
+    radio: http://www.sr-online.de/sr2/
+    radio_name: SR 2 KulturRadio
+    location: <nr/><td>Saarbrücken
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://streaming01.sr-online.de/sr2_1.m3u">56
+        Kbps</a>, <a
+        href="http://streaming01.sr-online.de/sr2_2.m3u">128
+        Kbps</a>
+    format: Classical / Cultural
+389: 
+    radio: http://www.sr-online.de/sr2/2406/
+    radio_name: |
+        SR 2 - Off-Beat
+    location: <nr/><td>Saarbrücken
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://streaming02.sr-online.de/sr2offbeat.m3u">96
+        Kbps</a>
+    format: Jazz (Web channel)
+390: 
+    radio: http://www.sr-online.de/sr3/
+    radio_name: SR 3 Saarlandwelle
+    location: <nr/><td>Saarbrücken
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://streaming01.sr-online.de/sr3_1.m3u">56
+        Kbps</a>, <a
+        href="http://streaming01.sr-online.de/sr3_2.m3u">128
+        Kbps</a>
+    format: News/Information
+391: 
+    radio: http://www.sr-online.de/sr3/2405/670526.html
+    radio_name: |
+        SR 3 - Schlagerwelt
+    location: <nr/><td>Saarbrücken
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://streaming02.sr-online.de/sr3schlagerwelt.m3u">96
+        Kbps</a>
+    format: Schlager (Web channel)
+392: 
+    radio: http://www.sr-online.de/sr3/2405/670526.html
+    radio_name: |
+        SR 3 - Oldiewelt
+    location: <nr/><td>Saarbrücken
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://streaming02.sr-online.de/sr3oldiewelt.m3u">96
+        Kbps</a>
+    format: Oldies (Web channel)
+393: 
+    radio: http://www.swr.de/swr1/
+    radio_name: SWR1 RP
+    location: <nr/><td>Mainz
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a href="http://wma-live.swr.de/swr1rp_m.asx">128
+        Kbps</a><br /><a
+        href="http://mp3-live.swr.de/swr1rp_s.m3u">48 Kbps</a>, <a
+        href="http://mp3-live.swr.de/swr1rp_m.m3u">128 Kbps</a>
+    format: News/AC/Oldies
+394: 
+    radio: http://www.swr.de/swr1/
+    radio_name: SWR1 BW
+    location: <nr/><td>Stuttgart
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a href="http://wma-live.swr.de/swr1bw_m.asx">128
+        Kbps</a><br /><a
+        href="http://mp3-live.swr.de/swr1bw_s.m3u">48 Kbps</a>, <a
+        href="http://mp3-live.swr.de/swr1bw_m.m3u">128 Kbps</a>
+    format: News/AC/Oldies
+395: 
+    radio: http://www.swr.de/swr2/
+    radio_name: SWR2
+    location: <nr/><td>Stuttgart
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a href="http://wma-live.swr.de/swr2_m.asx">128 Kbps</a><br
+        /><a href="http://mp3-live.swr.de/swr2_s.m3u">48 Kbps</a>,
+        <a href="http://mp3-live.swr.de/swr2_m.m3u">128 Kbps</a>
+    format: Classical / Culture
+396: 
+    radio: >
+        http://www.swr.de/swr2/wissen/archivradio/-/id=2847740/10g9qhv/index.html
+    radio_name: SWR2 Archivradio
+    location: <nr/><td>Stuttgart
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a
+        href="mms://swr-wma-m-swr2raka01a.wm.llnwd.net/swr_wma_m_swr2raka01a">128
+        Kbps</a><br /><a
+        href="http://mp3-live.swr.de/swr2raka01_s.m3u">48 Kbps</a>,
+        <a href="http://mp3-live.swr.de/swr2raka01_m.m3u">128
+        Kbps</a>
+    format: Education/Documentaries
+397: 
+    radio: http://www.swr3.de/
+    radio_name: SWR3
+    location: <nr/><td>Stuttgart
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a href="http://wma-live.swr3.de/swr3_m.asx">128 Kbps</a><br
+        /><a href="http://mp3-live.swr3.de/swr3_s.m3u">48 Kbps</a>,
+        <a href="http://mp3-live.swr3.de/swr3_m.m3u">128 Kbps</a>
+    format: Top 40
+398: 
+    radio: http://www.swr.de/swr4/rp/
+    radio_name: SWR4 RP
+    location: <nr/><td>Mainz
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a href="http://wma-live.swr.de/swr4rp_m.asx">128
+        Kbps</a><br /><a
+        href="http://mp3-live.swr.de/swr4rp_s.m3u">48 Kbps</a>, <a
+        href="http://mp3-live.swr.de/swr4rp_m.m3u">128 Kbps</a>
+    format: Light music / schlager
+399: 
+    radio: http://www.swr.de/swr4/bw/
+    radio_name: SWR4 BW
+    location: <nr/><td>Stuttgart
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a href="http://wma-live.swr.de/swr4bw_m.asx">128
+        Kbps</a><br /><a
+        href="http://mp3-live.swr.de/swr4bw_s.m3u">48 Kbps</a>, <a
+        href="http://mp3-live.swr.de/swr4bw_m.m3u">128 Kbps</a>
+    format: Light music / schlager
+400: 
+    radio: http://www.swr.de/contra/
+    radio_name: SWR cont.ra
+    location: <nr/><td>Stuttgart
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a href="http://wma-live.swr.de/contra_m.asx">128
+        Kbps</a><br /><a
+        href="http://mp3-live.swr.de/contra_s.m3u">48 Kbps</a>, <a
+        href="http://mp3-live.swr.de/contra_m.m3u">128 Kbps</a>
+    format: Information/Culture
+401: 
+    radio: http://www.tidenet.de/
+    radio_name: Tide Radio
+    location: <nr/><td>Hamburg
+    img: >
+        <img src="mp3.gif" width="12" height="12" alt="MP3" /><br
+        /><img src="ogg.gif" width="12" height="12" alt="Ogg Vorbis"
+        />
+    listen: >
+        <a
+        href="http://streaming.tidenet.de:8000/tide-40.mp3.m3u">40
+        Kbps</a><br /><a
+        href="http://streaming.tidenet.de:8000/tide128.ogg.m3u">128
+        Kbps</a>
+    format: Variety
+402: 
+    radio: http://www.top-fm.de/
+    radio_name: Top FM
+    location: <nr/><td>Fürstenfeldbruck
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://www.top-fm.de/stream_lq.m3u">48 Kbps</a>, <a
+        href="http://www.top-fm.de/stream_hq.m3u">96 Kbps</a>
+    format: Pop/Rock
+403: 
+    radio: http://www.truckradio.de/
+    radio_name: Truck Radio
+    location: <nr/><td>Fürth
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://213.200.97.110/truckradio/livestream.mp3.m3u">128
+        Kbps</a>
+    format: Music/Information
+404: 
+    radio: http://www.unserding.de/
+    radio_name: 103.7 UnserDing
+    location: <nr/><td>Saarbrücken
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://streaming01.sr-online.de/unserding_2.m3u">128
+        Kbps</a>
+    format: Youth programming
+405: 
+    radio: http://www.unserradio.de/
+    radio_name: Unser Radio
+    location: <nr/><td>Deggendorf
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: <a href="mms://regio-tv-streamer.de/unserradio">64 Kbps</a>
+    format: Adult Contemporary
+406: 
+    radio: http://www.vilradio.de/
+    radio_name: Vil Radio
+    location: <nr/><td>Nürnberg
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: <a href="http://62.146.2.66:8000/vilradio.m3u">128 Kbps</a>
+    format: Variety
+407: 
+    radio: http://www.vogtlandradio.de/
+    radio_name: Vogtland Radio
+    location: <nr/><td>Plauen
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: <a href="http://stream.green.ch/vogtlandradio">40 Kbps</a>
+    format: Adult Contemporary
+408: 
+    radio: http://www.wartburgradio.org/
+    radio_name: Wartburg Radio
+    location: <nr/><td>Eisenach
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://stream.max-fm.com:8000/wartburgradio.m3u">96
+        Kbps</a>
+    format: Local service/free radio
+409: 
+    radio: http://www.einslive.de/
+    radio_name: WDR 1LIVE
+    location: <nr/><td>Cologne
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a
+        href="http://www.wdr.de/wdrlive/media/einslive-wm32.asx">64
+        Kbps</a><br /><a
+        href="http://metafiles.gl-systemhaus.de/wdr/channel_einslive.m3u">128
+        Kbps</a>
+    format: Top 40/Youth programmes
+410: 
+    radio: http://www.einslive.de/
+    radio_name: WDR 1LIVE Diggi
+    location: <nr/><td>Cologne
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a
+        href="http://www.wdr.de/wdrlive/media/einslivedigi-wm32.asx">64
+        Kbps</a><br /><a
+        href="http://metafiles.gl-systemhaus.de/wdr/channel_einslivediggi.m3u">128
+        Kbps</a>
+    format: Dance/HipHop/Rock
+411: 
+    radio: http://www.wdr2.de/
+    radio_name: WDR 2
+    location: <nr/><td>Cologne
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a href="http://www.wdr.de/wdrlive/media/wdr2-wm32.asx">64
+        Kbps</a><br /><a
+        href="http://www.wdr.de/wdrlive/media/wdr2.m3u">128 Kbps</a>
+    format: Adult Contemporary
+412: 
+    radio: http://www.wdr2.de/
+    radio_name: WDR 2 Ostwestfalen-Lippe
+    location: <nr/><td>Bielefeld
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://www.wdr.de/wdrlive/media/wdr2_bielefeld.m3u">128
+        Kbps</a>
+    format: Adult Contemporary
+413: 
+    radio: http://www.wdr2.de/
+    radio_name: WDR 2 Münsterland
+    location: <nr/><td>Münster
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://www.wdr.de/wdrlive/media/wdr2_muenster.m3u">128
+        Kbps</a>
+    format: Adult Contemporary
+414: 
+    radio: http://www.wdr2.de/
+    radio_name: WDR 2 Ruhrgebiet
+    location: <nr/><td>Dortmund
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://www.wdr.de/wdrlive/media/wdr2_dortmund.m3u">128
+        Kbps</a>
+    format: Adult Contemporary
+415: 
+    radio: http://www.wdr2.de/
+    radio_name: WDR 2 Rhein und Ruhr
+    location: <nr/><td>Düsseldorf
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://www.wdr.de/wdrlive/media/wdr2_essen_duesseldorf.m3u">128
+        Kbps</a>
+    format: Adult Contemporary
+416: 
+    radio: http://www.wdr2.de/
+    radio_name: WDR 2 Bergisches Land
+    location: <nr/><td>Wuppertal
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://www.wdr.de/wdrlive/media/wdr2_wuppertal.m3u">128
+        Kbps</a>
+    format: Adult Contemporary
+417: 
+    radio: http://www.wdr2.de/
+    radio_name: WDR 2 Südwestfalen
+    location: <nr/><td>Siegen
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://www.wdr.de/wdrlive/media/wdr2_siegen.m3u">128
+        Kbps</a>
+    format: Adult Contemporary
+418: 
+    radio: http://www.wdr2.de/
+    radio_name: WDR 2 Aachen und Region
+    location: <nr/><td>Aachen
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://www.wdr.de/wdrlive/media/wdr2_aachen.m3u">128
+        Kbps</a>
+    format: Adult Contemporary
+419: 
+    radio: http://www.wdr3.de/
+    radio_name: WDR 3
+    location: <nr/><td>Cologne
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a href="http://www.wdr.de/wdrlive/media/wdr3-wm32.asx">64
+        Kbps</a><br /><a
+        href="http://www.wdr.de/wdrlive/media/wdr3.m3u">128 Kbps</a>
+    format: Classical/Culture
+420: 
+    radio: http://www.wdr4.de/
+    radio_name: WDR 4
+    location: <nr/><td>Cologne
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a href="http://www.wdr.de/wdrlive/media/wdr4-wm32.asx">64
+        Kbps</a><br /><a
+        href="http://www.wdr.de/wdrlive/media/wdr4.m3u">128 Kbps</a>
+    format: Pop/Volksmusik/Melody
+421: 
+    radio: http://www.wdr5.de/
+    radio_name: WDR5
+    location: <nr/><td>Cologne
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a href="http://www.wdr.de/wdrlive/media/wdr5-wm32.asx">64
+        Kbps</a><br /><a
+        href="http://www.wdr.de/wdrlive/media/wdr5.m3u">128 Kbps</a>
+    format: News/specialist music
+422: 
+    radio: http://www.wdr.de/radio/home/event/
+    radio_name: WDR Event
+    location: <nr/><td>Cologne
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a href="http://www.wdr.de/wdrlive/media/audioevent.asx">64
+        Kbps</a><br /><a
+        href="http://www.wdr.de/wdrlive/media/audioevent.m3u">128
+        Kbps</a>
+    format: Sports/political events
+423: 
+    radio: http://www.kiraka.wdr.de/
+    radio_name: WDR Kiraka
+    location: <nr/><td>Cologne
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://gffstream.ic.llnwd.net/stream/gffstream_gffwdr1a.m3u">128
+        Kbps</a>
+    format: Children's programmes
+424: 
+    radio: http://www.wdr5.de/funkhauseuropa/
+    radio_name: WDR Funkhaus Europa
+    location: <nr/><td>Cologne
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" /><br /><img src="mp3.gif" width="12" height="12"
+        alt="MP3" />
+    listen: >
+        <a href="http://www.wdr.de/wdrlive/media/fhe-wm32.asx">64
+        Kbps</a><br /><a
+        href="http://gffstream.ic.llnwd.net/stream/gffstream_w20a.m3u">128
+        Kbps</a>
+    format: MultiCultural/World Music
+425: 
+    radio: http://www.wdr5.de/funkhauseuropa/
+    radio_name: WDR  KoelnradyosuNet
+    location: <nr/><td>Cologne
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a
+        href="http://www.funkhauseuropa.de/koelnradyosunet.m3u">128
+        Kbps</a>
+    format: Turkish
+426: 
+    radio: http://www.wdr5.de/funkhauseuropa/
+    radio_name: WDR  Netradioforum
+    location: <nr/><td>Cologne
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: >
+        <a href="http://www.funkhauseuropa.de/netradioforum.m3u">128
+        Kbps</a>
+    format: Serbian
+427: 
+    radio: http://www.welleniederrhein.de/
+    radio_name: Welle Niederrhein
+    location: <nr/><td>Krefeld
+    img: >
+        <img src="wma.gif" width="12" height="12" alt="Windows
+        Media" />
+    listen: >
+        <a
+        href="javascript:wellen=void(window.open('http://213.200.64.229/freestream/download/wellenr/frameset.html','wellen','width=468,height=168,top=30,left=30'))">48
+        Kbps</a>
+    format: Hot Adult Contemporary
+428: 
+    radio: http://www.wueste-welle.de/
+    radio_name: Wüste Welle
+    location: <nr/><td>Tübingen
+    img: <img src="mp3.gif" width="12" height="12" alt="MP3" />
+    listen: <a href="http://188.40.63.198:8000/stream.m3u">128 Kbps</a>
+    format: Local service/free radio
